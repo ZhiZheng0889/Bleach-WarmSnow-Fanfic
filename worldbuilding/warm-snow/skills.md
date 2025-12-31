@@ -27,10 +27,13 @@ The wiki enumerates skills by sect. The visible sect list includes:
 - Mother Trinity (bleed/poison emphasis)
 - Shadow-Walker (parry/block emphasis)
 - Soul Blade Shura (blade-spirit / flying-sword conjuring emphasis)
+- Wheels of Solar and Lunar (burn + freeze duality)
 
 ## How to use this in fic
 - Treat “skills” as **codified techniques** or **blessings** that stack into a build philosophy.
 - Treat the statue choice as a **vow** or **initiation**: it’s a great way to justify why a character’s toolkit coheres.
+
+One practical crossover anchor: many weapons/relics/skills explicitly care about **status states** (burning, frozen, poisoned, bleeding, stunned, drunk). You can treat those as named “afflictions” that different sects specialize in causing or exploiting.
 
 ## Sect skill catalogs (paraphrased examples)
 These are **short, fic-friendly paraphrases** of example skills listed on the wiki’s Skills page tables. Use them as inspiration, not as rigid game-accurate text.
