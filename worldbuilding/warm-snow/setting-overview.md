@@ -12,6 +12,11 @@
 - Treat “Warm Snow” as both **weather** and **curse/omen**: it should show up in sensory details (heat where cold should be) and in social behavior (fear, superstition, scapegoating).
 - Keep the Five Great Clans as the big political pillars; smaller groups (sects, guards, cults) can orbit them.
 
+## Artifacts & techniques (bridges to system pages)
+- **Excaliburs** can read as named blades with conditional awakenings.
+- **Relics / Elixirs** can read as support talismans/elixirs seated into four channels (Core/Power/Agility/Skill).
+- **Skills** can read as codified blessings granted by sect doctrine.
+
 ## Open questions to pin down later
 - What, specifically, is “Warm Snow” in-universe (origin, mechanics, spread)?
 - Who/what are the Five Great Clans (names, domains, ideology)?

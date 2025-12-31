@@ -3,6 +3,8 @@
 ## Sources used (so far)
 - Wiki home page / main page: https://warm-snow.fandom.com/wiki/Main_Page
 - “All pages” index (for term harvesting): https://warm-snow.fandom.com/wiki/Special:AllPages
+- Excaliburs (weapons overview): https://warm-snow.fandom.com/wiki/Excaliburs
+- Relics (overview + base/DLC lists): https://warm-snow.fandom.com/wiki/Relics
 
 ## Additional sources used for systems/sects (API)
 These were pulled via Fandom’s MediaWiki API to avoid ad/login redirects:
@@ -28,6 +30,8 @@ Some wiki pages intermittently redirect to third-party login/ads endpoints or ar
 To keep momentum without copying content, this repo uses:
 - **Paraphrased** summaries (no large quotes)
 - “TBD” placeholders where details weren’t reliably retrievable
+
+Additional note: some details were provided via user-copied wiki text in chat (Dec 2025) when programmatic fetching was unreliable.
 
 ## Next pages to pull (recommended order)
 If the wiki loads in your browser, these are the next best targets to summarize into this folder:
