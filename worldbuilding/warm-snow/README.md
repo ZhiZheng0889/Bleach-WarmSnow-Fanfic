@@ -13,5 +13,6 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Skills system](skills.md)
 - [Relics / Elixirs](relics.md)
 - [Weapons: Excaliburs](weapons-excaliburs.md)
+- [Weapons: Excaliburs (appendix list)](weapons-excaliburs-appendix.md)
 - [Terminology & glossary (starter)](glossary.md)
 - [Sources & verification notes](sources.md)

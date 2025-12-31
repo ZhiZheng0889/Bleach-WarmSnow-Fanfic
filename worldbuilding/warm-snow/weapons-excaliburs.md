@@ -57,5 +57,5 @@ The wiki lists many individual weapons, each with a conditional unique effect. A
 - **Azure Dragon**: with a matching spirit relic, flying-sword hits can fire a lightning bolt along a path; mythic adds a separate large flying-sword attack bonus under another condition.
 - **Black Tortoise**: with a matching spirit relic, grants sturdiness and retaliatory stomps when hit; mythic adds additional defense under a separate condition.
 
-(If you want a complete weapon-by-weapon catalog for plotting, we can add a separate appendix page that lists names + required items + one-line paraphrased effects.)
+For a longer name list pulled from the excerpt you pasted: see [weapons-excaliburs-appendix.md](weapons-excaliburs-appendix.md).
 
