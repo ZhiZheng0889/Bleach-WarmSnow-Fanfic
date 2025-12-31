@@ -28,15 +28,81 @@ The wiki describes shop upgrades that let you **refine** unwanted relics to gain
 - Treat relics as **pill-box elixirs**, **forbidden talismans**, or **sealed organs** that “seat” into a body’s four channels (Core/Power/Agility/Skill).
 - Refining becomes an in-world ritual: breaking down a relic’s “fate” to strengthen the practitioner.
 
-## Example relic names (for flavor lists)
-The Relics page enumerates many items (including DLC lists). A few names you can reuse as props without locking in mechanics yet:
+## Relic name lists (base + DLC)
+The wiki enumerates relics by name. This is useful for fic props even if you keep the mechanics “soft.”
+
+### Base game relics (names)
 - White Tiger Spirit
 - Black Tortoise Spirit
 - Azure Dragon Spirit
 - Vermilion Bird Spirit
 - Zombie Finger
+- Sharp Fang
+- Trauma Soother
+- Big Bone
 - Pearl
 - Realgar
 - Heart of Hatred
+- Qi Whisperer
+- Crimson Jade Marrow
+- Pyrostone
+- Intoxicator Brew
+- Blood Reishi
+- Perpetual Floe
+- Snowmane
+- Stygian Lotus
+- Wrathblood
+- Galesteps
+- Icebreaker
+- Sand of Transience
+- Inkfire Crystal
+- Celestial Jade
+- Power Core
+- Mechanical Gatling
+- Mechanical Bazooka
+- Mechanical Case
+- Talisman
+- Frostbloom
+- Toxin Pouch
+- Ghostly Strand
+- Tricolor Crystal
+- Shackle of Thunder
+- Mutated Limb
+- Tiger’s Mark
+- Fallen Dragon
+- Thunderstone
+- Black Powder
+- Mercury
+- Teal Steel
+- Saberstone
+
+### DLC: The Ash of Nightmare (names)
+- Wardstone
+- Seed of Life
+- Niter Arrow
+- Dreadheart
+- Draconic Goblet
+- Darter Balm
+- Alien Stone
+
+### DLC: The End of Karma (names)
+- Mystic Orb
+- Phoenix Beak
+- Dragon Fang
+- Boreal Stone
+- Eerie Blade
+- Mountain Armor
+- Heart of Devotion
+- Putrescent Ghost Armor
+- Mirror Armor
+- Berserker Chain
+- Corpse Beetle
+- Imperial Robe
+- Eternal Contract
+- Seal of the Great Mother
+- Nether Mist
+- Rootless Fossil
+- Dragon Stone
+- North Sea Fin
 
 (Keep mechanics TBD unless you pull each relic’s dedicated page.)
