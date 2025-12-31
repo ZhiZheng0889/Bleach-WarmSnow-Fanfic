@@ -64,6 +64,11 @@ In the wiki’s structure, sects are effectively **statue choices** that:
 ### Additional sects referenced by the wiki’s skill index
 - Shadow-Walker: parry/block emphasis; opportunistic counterattacks (unlock: purchase via Scarlet Treasure using Red Souls)
 - Soul Blade Shura: conjuring blade spirits / flying swords (unlock: defeat a DLC2 boss)
+- Wheels of Solar and Lunar: burn + freeze duality; blends sun-heat and moon-cold (unlock: defeat a boss in DLC2)
+
+#### Wheels of Solar and Lunar (additional snapshot)
+- Focus: mixing **burning** and **freeze** damage; a “yin/yang” cycle that alternates pressure and control
+- Starting skills: Solar-Lunar (guaranteed), plus Opposing Extremes and Chaos
 
 ### How to use sects in the fic
 - Treat sects as **doctrines + techniques** (a worldview that shapes how they fight, heal, punish, or bargain).
