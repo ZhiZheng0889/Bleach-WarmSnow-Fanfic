@@ -33,7 +33,7 @@ To keep momentum without copying content, this repo uses:
 
 Additional note: some details were provided via user-copied wiki text in chat (Dec 2025) when programmatic fetching was unreliable.
 
-- “秘籍” (manuals) table excerpt in Chinese (updated 2022-12-14 per the pasted header): user-provided copy in chat; source URL not included.
+- “秘籍” (manuals) table excerpt in Chinese (updated 2022-12-14 per the pasted header): https://wiki.biligame.com/warmsnow/%E7%A7%98%E7%B1%8D
 
 ## Next pages to pull (recommended order)
 If the wiki loads in your browser, these are the next best targets to summarize into this folder:
