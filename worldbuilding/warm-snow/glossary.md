@@ -21,7 +21,11 @@ This is a **working** glossary: short, consistent meanings you can use in prose.
 - **Excalibur / Excaliburs**: The run’s weapon pickups; each weapon has stat rolls plus a unique effect tied to conditions/items.
 - **Excalibur room**: A dedicated room type that awards a weapon pickup.
 - **Rarity (weapon)**: Rare/Epic/Legendary/Mythic; higher rarity usually means more stat lines and stronger unique effects.
+- **Sheath**: A core combat action in the game’s vocabulary; many effects trigger “upon sheathing.”
+- **Sheath cooldown**: A weapon stat line that reduces how long you wait between sheath uses.
+- **Rage gain**: A weapon stat line that increases how quickly you build rage.
 - **Distill (weapon)**: Converting a weapon into Blue Souls.
+- **Blue Souls**: A currency-like resource; weapons can be distilled into Blue Souls with payout scaling by rarity.
 
 ## Skills & selection
 - **Skill**: Primarily a passive ability gained during the run.
