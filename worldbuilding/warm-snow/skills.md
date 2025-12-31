@@ -2,6 +2,8 @@
 
 In the wiki’s framing, **skills** are primarily **passive abilities** gained during a run.
 
+Related system: some sources (e.g., Chinese-language references) describe **秘籍** (“manuals/secret arts”) that function similarly as passive modifiers; see [manuals-miji.md](manuals-miji.md).
+
 ## How you get skills
 ### Starting choice (statues)
 At the start of a run you choose a statue/sect to “worship”, which grants an initial set of skills. This also biases later skill offerings toward that sect.

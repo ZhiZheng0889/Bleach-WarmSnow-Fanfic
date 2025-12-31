@@ -11,6 +11,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Setting overview](setting-overview.md)
 - [Factions & sects](factions-and-sects.md)
 - [Skills system](skills.md)
+- [秘籍 / manuals](manuals-miji.md)
 - [Relics / Elixirs](relics.md)
 - [Weapons: Excaliburs](weapons-excaliburs.md)
 - [Weapons: Excaliburs (appendix list)](weapons-excaliburs-appendix.md)

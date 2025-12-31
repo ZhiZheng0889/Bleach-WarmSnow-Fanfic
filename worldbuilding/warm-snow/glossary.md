@@ -32,6 +32,10 @@ This is a **working** glossary: short, consistent meanings you can use in prose.
 - **Statue / worship**: Your run-start sect choice; grants starting skills and biases later skill options.
 - **Tome Remnant**: A pick-1-of-3 skill reward event.
 
+## Additional terms (CN UI/wiki phrasing)
+- **秘籍 (Mìjí)**: “Manuals/secret arts” described in some Chinese references; effectively passive modifiers similar to skills.
+- **普通 / 稀有 / 绝世**: Rarity labels used in the pasted excerpt (common / rare / peerless).
+
 ## Gameplay categories that can become story categories
 (Useful if you want an in-world taxonomy for techniques and tools.)
 - **Relics / Elixirs**: Support items found during a run; powerful effects that can shape a build. The wiki treats “relic” and “elixir” as interchangeable terms.
