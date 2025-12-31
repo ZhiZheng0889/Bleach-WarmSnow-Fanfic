@@ -1,1 +1,6 @@
-﻿# Worldbuilding\n\nSetting rules, systems, and terminology live here.\n
+﻿# Worldbuilding
+
+Setting rules, systems, and terminology live here.
+
+## Sections
+- [Warm Snow](warm-snow/README.md)
