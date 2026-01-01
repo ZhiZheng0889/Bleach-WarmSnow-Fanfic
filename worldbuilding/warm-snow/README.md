@@ -26,6 +26,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Bosses & Enemies](bosses-and-enemies.md)
 - [Faction Relics & Props](faction-relics.md)
 - [Relationship Matrix](relationships.md)
+- [Sect Hooks](sect-hooks.md)
 - [Terminology & glossary (starter)](glossary.md)
 - [Sources & verification notes](sources.md)
 - [Bleach crossover: Acts and arcs](bleach-crossover-acts.md)
