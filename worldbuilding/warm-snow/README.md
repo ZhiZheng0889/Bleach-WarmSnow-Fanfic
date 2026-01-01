@@ -20,6 +20,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Hellborne (Bleach crossover)](hellborne-bleach.md)
 - [Hellborne (playbook & scenes)](hellborne-playbook.md)
 - [Hellborne (appendix list)](hellborne-appendix.md)
+- [Hellborne Path Leaders (builds)](hellborne-path-leaders.md)
 - [Imperial Guard](imperial-guard.md)
 - [Bosses & Enemies](bosses-and-enemies.md)
 - [Faction Relics & Props](faction-relics.md)
