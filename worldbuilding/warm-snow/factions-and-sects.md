@@ -39,6 +39,8 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 - **Seven-Sword Shura in Rukongai**: A disciple duels Long conscripts, using Killing Intent to stagger them so river smugglers can slip past with Hellborne mimics.
 - **Infinite Arhat in Seireitei alleys**: Flying swords form a Blade Cage around a Bai archivist fleeing with banned scrolls; Byakuya's petals clash with the cage's orbit until Solar-Lunar pulses dim the petals.
 - **Mother Trinity vs Hollow swarm**: Bleed stacks turn into Crimson Sea, corroding masks; Urahara notes the poison matches Shen trials, tying clans to Hollow experimentation.
+- **Thunderfury interdiction**: Thunderfury strike team fries Silence Scroll cases before they can mute Zanpakuto spirits, while Long conscripts struggle to hold formation.
+- **Yue convoy with Infinite Arhat overwatch**: Tideway Tokens curve blades from above until Soi Fon tags the coins with Kido to straighten their arcs.
 
 ## Other factions to outline next
 - **Imperial Guard**: Polices Warm Snow outbreaks; splits loyalty between protecting peasants and enforcing clan edicts. Known relics: Whitewall Shields (blunt Warm Snow spores), Oath Halberds (bind deserters). Internal schism: Captain of the Outer Gates accepts Yue bribes; inner wall captain reports to Long.
@@ -65,3 +67,5 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 - **Bai vault breach**: Urahara swaps a fake scroll while Bai seals mute his Zanpakuto; he uses Shadow Guard (Shadow-Walker) to slip the silence window.
 - **Long drill vs Kenpachi**: Long banner slows Kenpachi's swing for once; he grins and tears it apart, revealing Banner of Binding cracks under raw Reiatsu spikes.
 - **Shen trial ward**: Mayuri walks into a Shen clinic; Verdant Needles try to auto-inject him, but he flips their polarity to create antidote gas, exposing Shen's human trial ledgers.
+- **Thunderfury interdiction**: Thunderfury strike team fries Silence Scroll cases before they can mute Zanpakuto spirits, while Long conscripts struggle to hold formation.
+- **Yue convoy with Infinite Arhat overwatch**: Tideway Tokens curve blades from above until Soi Fon tags the coins with Kido to straighten their arcs.
