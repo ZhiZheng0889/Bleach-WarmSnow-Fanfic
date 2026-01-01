@@ -7,11 +7,16 @@ Police Warm Snow outbreaks, protect clan interests, and control movement between
 - **Inner Wall Command**: stationed near the palace and clan manors; answers to Clan Long influence.
 - **Rapid Response Units**: small squads trained to contain Warm Snow flares and riots; rotate between districts.
 
+## Duties (Gotei analog)
+- **Outer Gates**: checkpoint control, customs, tolls, first contact with outbreaks; answerable to Long pressure.
+- **Inner Wall**: palace security, noble escorts, riot suppression; mirrors 1st/6th discipline with Long sway.
+- **Rapid Response**: crisis containment and evacuation; akin to 4th/12th joint tasking, often undermanned.
+
 ## Standard kit (relics/arms)
 - **Whitewall Shields**: alchemized to blunt Warm Snow spores; double as riot cover.
 - **Oath Halberds**: bind deserters or oath-breakers in place for three breaths.
 - **Seal Lanterns**: light that reveals mimic relic signatures; weak against Hellborne suppressors.
-- **Banner Sigils**: borrowed from Long—miniature Banner of Binding that slows crowds.
+- **Banner Sigils**: miniature Banner of Binding that slows crowds (borrowed from Long stock).
 
 ## Loyalties and cracks
 - **Outer Gates**: captain takes Yue bribes to wave tolls for smugglers; 2nd Division and Soi Fon monitor them.
