@@ -53,6 +53,13 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 - **Shen (Jade Apothecaries)**: Vice/virtue: human trials vs healing. Resource: herb monopolies. Signature relic: Verdant Needles (poison/antidote on command). Alliances: black-market meds with 12th; opposed by 4th. Sect tilt: Mother Trinity uses their brews; Carousing Acalantha abuses their liquor tonics.
 - **Long (Iron Banner)**: Vice/virtue: ambition vs protection. Resource: conscription pools. Signature relic: Banner of Binding (rally/slow field). Alliances: noble private guards; resented by 13th. Sect tilt: Thunderfury respects their drills; Seven-Sword Shura rebels against forced drafts.
 
+### Key NPCs (per clan)
+- **Xu**: *Patriarch Xu Jian* (deal-maker with 12th, hides suppressor trade); *Enforcer “Hammer” Rui* (tests Blood Quench steel on conscripts); *Smuggler Lin* (feeds mimics to Rukongai gangs).
+- **Bai**: *Matriarch Bai Yulan* (censor-in-chief; bars Hollow reports); *Archivist Han* (liaison to Kido Corps, secretly doubts censorship); *Pursuer Mei* (hunts leakers with Sealing Scrolls).
+- **Yue**: *Captain Yue Zhen* (river checkpoints, bribes outer gates); *Quartermaster Ruo* (handles Tideway Tokens for Infinite Arhat couriers); *Ferryman Jiao* (runs illicit Senkaimon ferries, watched by 2nd Division).
+- **Shen**: *Healer Shen Lian* (public charity face, approves trials); *Doctor Wei* (runs Verdant Needle labs, sells to Mayuri); *Orderly Rin* (sedates patients with Jade Inhalers).
+- **Long**: *Commander Long Hao* (banner drills, conscription quotas); *Sergeant Kai* (brands conscription tags); *Adjutant Fen* (negotiates with nobles for private guards, resents 13th oversight).
+
 ## Extra scene seeds
 - **Bai vault breach**: Urahara swaps a fake scroll while Bai seals mute his Zanpakuto; he uses Shadow Guard (Shadow-Walker) to slip the silence window.
 - **Long drill vs Kenpachi**: Long banner slows Kenpachi's swing for once; he grins and tears it apart, revealing Banner of Binding cracks under raw Reiatsu spikes.
