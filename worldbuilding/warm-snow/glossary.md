@@ -21,6 +21,7 @@ This is a **working** glossary: short, consistent meanings you can use in prose.
 - **Excalibur / Excaliburs**: The run’s weapon pickups; each weapon has stat rolls plus a unique effect tied to conditions/items.
 - **Excalibur room**: A dedicated room type that awards a weapon pickup.
 - **Rarity (weapon)**: Rare/Epic/Legendary/Mythic; higher rarity usually means more stat lines and stronger unique effects.
+- **Divine weapon (神兵)**: A weapon whose special trait is conditional (often wired to specific relics/manuals/skills); for story, treat it like a blade’s “signature vow” that wakes when requirements are met.
 - **Sheath**: A core combat action in the game’s vocabulary; many effects trigger “upon sheathing.”
 - **Sheath cooldown**: A weapon stat line that reduces how long you wait between sheath uses.
 - **Rage gain**: A weapon stat line that increases how quickly you build rage.
@@ -31,6 +32,10 @@ This is a **working** glossary: short, consistent meanings you can use in prose.
 - **Skill**: Primarily a passive ability gained during the run.
 - **Statue / worship**: Your run-start sect choice; grants starting skills and biases later skill options.
 - **Tome Remnant**: A pick-1-of-3 skill reward event.
+
+## Additional terms (CN UI/wiki phrasing)
+- **秘籍 (Mìjí)**: “Manuals/secret arts” described in some Chinese references; effectively passive modifiers similar to skills.
+- **普通 / 稀有 / 绝世**: Rarity labels used in the pasted excerpt (common / rare / peerless).
 
 ## Gameplay categories that can become story categories
 (Useful if you want an in-world taxonomy for techniques and tools.)

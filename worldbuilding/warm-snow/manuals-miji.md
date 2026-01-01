@@ -1,0 +1,145 @@
+# 秘籍 (Mìjí) / manuals (starter)
+
+In the Chinese UI/wiki phrasing, **秘籍** are “manuals/secret arts” that function like **build-defining passive modifiers**.
+
+This page is a **paraphrased** capture of the excerpt you pasted in chat. Names are kept as-is; effects are reworded for fic use.
+
+## How to use this in fic
+- Treat a **秘籍** as a sealed technique, pill formula, or scripture that “locks in” a rule for how your power behaves.
+- The **rarity** tags can become in-world labels (common / rare / peerless).
+- “Sect-exclusive” can be treated as lineage-only teachings.
+
+## Rarity legend (from the excerpt)
+- **普通**: common
+- **稀有**: rare
+- **绝世**: peerless
+
+## Entries (from the provided excerpt)
+- **龟裂之雷** (Thunder Shellcrack) — *圣威怒雷金刚*, 普通: your “Fury Thunder” makes targets take +20% damage for ~3s.
+- **龟甲** (Turtle Shell) — 通用, 普通: when hit, ~10% chance to gain a shield worth ~20% max HP.
+- **龙之酒** (Dragon Wine) — *神饮明王*, 绝世: upgrades burning into “true fire”; +100% burn damage and counts as true damage.
+- **麻痹** (Paralysis) — *圣威怒雷金刚*, 普通: dealing lightning damage has a chance to stun briefly (~0.5s).
+- **魂多势众** (Strength in Numbers) — 通用, 绝世: every 50 “nether souls” carried increases all damage (~+1.25%).
+- **饮血** (Drink Blood) — *三尸慈姑娘娘*, 稀有: melee hits vs bleeding targets heal (~1% max HP); if target is poisoned/true-poisoned, you also “absorb” that poison state.
+- **飞剑强化** (Flying Sword Up) — 通用, 普通: flying sword damage +10%.
+- **飞剑专精** (Flying Sword Mastery) — *无量尊者*, 普通: flying sword damage +30%, plus a melee bonus.
+- **风暴汇聚** (Storm Gathering) — *圣威怒雷金刚*, 普通: every ~2s, your next “Fury Thunder” gains +5% damage, stacking up to +100%.
+- **顺势之刃** (Opportunist Blade) — *七剑修罗*, 绝世: picking up swords triggers a spin attack; using “Sword Recall/Return” triggers a giant spin whose damage scales with swords collected.
+- **雷神之铠** (Thunder God’s Armor) — *圣威怒雷金刚*, 绝世: after certain lightning mobility/sheath moves, gain a 5s buff: take -25% damage and emit multiple Fury Thunder bolts per second.
+- **雷神之刃** (Thunder God’s Blade) — *圣威怒雷金刚*, 绝世: after certain lightning mobility/sheath moves, gain a 5s buff: Fury Thunder hits harder and triggers far more often.
+- **防御强化** (Defense Up) — 通用, 普通: defense +7%.
+- **防御剑阵** (Defensive Sword Array) — *七剑修罗*, 普通: each carried flying sword increases defense (~+2.5%).
+- **防御准备** (Defensive Stance) — 通用, 普通: if unhurt for ~15s, your next hit is reduced by ~25%.
+- **闪避** (Evasion) — 通用, 普通: when hit, ~12% chance to dodge the damage.
+- **闪电强化** (Lightning Up) — 通用, 普通: lightning damage +15%.
+- **金光雷法** (Golden Lightning Art) — *圣威怒雷金刚*, 稀有: lightning damage has a chance to become true damage.
+- **野火** (Wildfire) — *神饮明王*, 稀有: burning enemies also deal fire damage to nearby enemies.
+- **重伤** (Grievous Wound) — *七剑修罗*, 普通: triggering “Cold Blood” also inflicts bleeding for a short duration.
+- **醉卧沙场** (Drunk on the Battlefield) — *神饮明王*, 普通: when hit, chance to splash wine around; while downed, regenerate HP each second.
+- **醇酒** (Mellow Wine) — *神饮明王*, 普通: burning deals more damage and slows burning targets.
+- **迷乱** (Confusion) — *神饮明王*, 普通: when drunk/burning enemies attack you, chance to evade.
+- **近战强化** (Melee Up) — 通用, 普通: melee damage +10%.
+- **迅雷之足** (Thunder Footwork) — *圣威怒雷金刚*, 稀有: after a blink/flash step, gain a brief speed burst.
+- **走火入魔** (Qi Deviation) — 通用, 绝世: extreme offense with a severe survivability trade; defense returns as HP drops.
+- **贯穿之刃** (Piercing Blade) — *无量尊者*, 稀有: flying swords pierce targets; each pierce increases damage further.
+- **见缝插针** (Thread the Needle) — *无量尊者*, 普通: flying sword hits ignore a portion of enemy defense.
+- **裸衣** (Bare-Armor) — 通用, 绝世: the fewer relics you carry, the more damage you deal.
+- **裂伤** (Laceration) — *七剑修罗*, 稀有: for each sword embedded in the enemy, they take increased damage.
+- **血疫** (Blood Plague) — *三尸慈姑娘娘*, 稀有: bleeding targets struck by blood projectiles can explode and spread bleeding to nearby enemies.
+- **血毒蛊虫** (Blood-Poison Gu Worm) — *三尸慈姑娘娘*, 普通: poison/true-poison/bleed damage increased.
+- **蝶噬** (Butterfly Bite) — *神行迷踪天尊*, 稀有: “Mizong” variant improves phantom blade damage and adds a bounce.
+- **蛭牙** (Leech Fang) — 通用, 普通: once per second, melee or flying sword damage heals ~1% max HP.
+- **蛇之酒** (Serpent Wine) — *神饮明王*, 绝世: burning becomes “poison flame,” adding periodic %max-HP damage with a cap.
+- **蓄养术** (Sustain Technique) — 通用, 普通: healing gourd heals more, but over a short duration.
+- **聚气术** (Qi Gathering) — 通用, 普通: rage gain increased.
+- **绝境** (Desperation) — *神行迷踪天尊*, 普通: two conditional self-heal triggers depending on variant and low-HP state.
+- **稳扎稳打** (Steady Footing) — 通用, 普通: carrying the starting weapon increases all damage.
+- **神行百变** (Swift Transformation) — 通用, 稀有: move speed up; part of extra move speed converts into attack.
+- **神勇无惧** (Fearless Warrior) — 通用, 绝世: large all-attack bonus plus max HP and defense.
+- **破甲** (Armor Break) — 通用, 普通: ignore a portion of defense.
+- **破灭** (Ruin) — *七剑修罗*, 绝世: massively increases Cold Blood damage; embedded swords improve proc chance.
+- **瞬身强化** (Blink Up) — 通用, 普通: slightly increases blink distance.
+- **百步穿杨** (Unerring Aim) — 通用, 绝世: flying sword damage +35%; small chance to deal a large damage spike on hit.
+- **百战不殆** (Battle Hardened) — 通用, 稀有: each nearby enemy increases your damage.
+- **百刃倾泻** (Blade Torrent) — *七剑修罗*, 绝世: melee has a chance to fire all swords forward and apply a weakness/vulnerability; can reset the sword-return cooldown.
+- **白霜蔓延** (White Frost Spreads) — *三川苦寒菩萨*, 稀有: boosts white frost damage; when it ends, it jumps to nearby enemies.
+- **白霜** (White Frost) — *三川苦寒菩萨*, 绝世: retools your kit around extreme cold: applies a white-frost DoT, improves damage vs frozen, and replaces/augments sword-return with a frost detonation.
+- **疾风骤雨** (Gale & Rain) — 通用, 绝世: big melee boost plus heavy defense and mobility; blinking damages enemies along the path.
+- **疯狂之愿** (Mad Wish) — *三尸慈姑娘娘*, 普通: when poisoned/true-poisoned, attack speed increased.
+- **生命强化** (HP Up) — 通用, 普通: max HP +8%.
+- **狂风之刃** (Gale Blade) — 通用, 绝世: very large melee attack speed increase.
+- **狂血之刃** (Blood-Frenzy Blade) — *七剑修罗*, 稀有: picking up swords stacks attack+move speed; at max stacks, grants brief lifesteal.
+- **狂热** (Fervor) — 通用, 普通: dealing damage stacks a short-lived damage bonus up to a cap.
+- **狂息之风** (Wild Breath Wind) — 通用, 稀有: melee speed + move speed.
+- **狂乱之咒** (Madness Curse) — *三尸慈姑娘娘*, 稀有: poison/true-poison/bleed have a chance to deal double damage.
+- **爆燃** (Ignition Burst) — *神饮明王*, 绝世: igniting drunk/strong-drink effects causes an explosion.
+- **爆流迸发** (Shock Detonation) — *圣威怒雷金刚*, 稀有: after certain lightning mobility/sheath moves, detonates all “electrified” stacks on nearby enemies for area lightning damage.
+- **热风** (Hot Wind) — *神饮明王*, 稀有: melee vs burning targets grants a short melee speed buff.
+- **烈焰斩** (Flame Slash) — *神饮明王*, 稀有: increases burning-blade proc chance and boosts all fire damage.
+- **烈焰掌控** (Flame Control) — *神饮明王*, 普通: increases all fire damage.
+- **灵动之身** (Agile Body) — *无量尊者*, 稀有: removes movement penalty during certain rapid-shot/charge behaviors.
+- **火焰强化** (Fire Up) — 通用, 普通: fire damage +15%.
+- **溃烂** (Ulceration) — *三尸慈姑娘娘*, 稀有: after poison/true-poison persists, applies bleeding.
+- **深度凝结** (Deep Condensation) — *三川苦寒菩萨*, 稀有: raises ice-blade crit chance and crit damage.
+- **浴血奋战** (Fight Bathed in Blood) — 通用, 稀有: stacking damage on kills; taking damage removes stacks.
+- **活力萃取** (Vitality Extraction) — *三尸慈姑娘娘*, 普通: killing enemies restores a small amount of HP.
+- **洞察** (Insight) — 通用, 普通: improves invulnerability window during blink.
+- **治疗强化** (Healing Up) — 通用, 普通: increases healing received.
+- **永劫天雷** (Endless Calamity Thunder) — *圣威怒雷金刚*, 绝世: Fury Thunder can chain an extra bolt (and that extra bolt can also chain).
+- **毒疫** (Poison Plague) — *三尸慈姑娘娘*, 稀有: more damage vs poisoned targets; kills explode and spread poison to others.
+- **毒刃** (Poison Blade) — *三尸慈姑娘娘*, 普通: melee can poison; much higher chance if target is bleeding.
+- **极寒之心** (Heart of Extreme Cold) — *三川苦寒菩萨*, 普通: increases all frost damage.
+- **星火燎原** (Spark Becomes Wildfire) — *神饮明王*, 普通: melee has a chance to create a short-lived fire wall ahead.
+- **无剑胜有剑** (No-Sword Better-than-Sword) — *七剑修罗*, 稀有: the fewer swords you carry, the more damage you deal.
+- **斩龙诀** (Dragon-Slaying Formula) — 通用, 绝世: after a short period without melee, the next melee fires a massive sword-energy wave.
+- **收剑掌控** (Sword Recall Control) — 通用, 普通: reduces sword-recall cooldown.
+- **摧枯拉朽** (Overwhelm) — 通用, 稀有: deal extra damage to targets below ~50% HP; scales as they get lower.
+- **掌心雷** (Palm Thunder) — 通用, 绝世: every few melee hits, fire a large-area lightning blast that also briefly stuns.
+- **护盾强化** (Shield Up) — 通用, 普通: increases shield amounts gained.
+- **愈演愈烈** (Worsening) — 通用, 稀有: dealing damage stacks a short-lived “target takes more damage” debuff up to a cap.
+- **急速强化** (Speed Up) — 通用, 普通: melee speed +15%.
+- **急速冷却** (Rapid Cooldown) — *三川苦寒菩萨*, 稀有: triggering extreme-cold reduces key frost skill cooldowns.
+- **怒不可遏** (Uncontainable Rage) — 通用, 稀有: attack up; further increases as you lose HP.
+- **强食** (Predation) — 通用, 普通: max HP up; killing restores a little HP.
+- **强化龙之酒** (Empowered Dragon Wine) — *神饮明王*, 绝世: targets under true fire take more damage; true fire becomes effectively permanent.
+- **强化贯日** (Empowered Sun-Piercer) — *无量尊者*, 稀有: greatly increases a “Sun Piercer” technique’s damage.
+- **强化蛇之酒** (Empowered Serpent Wine) — *神饮明王*, 绝世: poison-flame damage increases; affected targets periodically emit toxic clouds.
+- **强化无量** (Empowered Infinity) — *无量尊者*, 普通: increases Infinity’s true-damage component.
+- **强化怒雷** (Empowered Fury Thunder) — *圣威怒雷金刚*, 普通: increases Fury Thunder damage.
+- **弧光之刃** (Arc-Light Blades) — *无量尊者*, 绝世: after enough flying-sword hits, emit multiple tracking spirit blades; more blades scale with extra sword-recall cooldown reduction.
+- **引雷** (Draw Lightning) — *圣威怒雷金刚*, 稀有: Fury Thunder fires a chain lightning that bounces multiple times with diminishing damage.
+- **幻舞之法** (Phantom Dance Method) — *神行迷踪天尊*, 稀有: improves mark recovery speed for a short time when phantom blades deal damage.
+- **左右互搏** (Both Hands) — 通用, 稀有: melee damage boosts flying sword damage briefly; flying sword damage boosts melee briefly.
+- **寒风护体** (Cold Wind Guard) — *三川苦寒菩萨*, 普通: when attacked, chance to ice-blast and briefly freeze nearby enemies.
+- **寒气满溢** (Overflowing Cold) — *三川苦寒菩萨*, 普通: increases extreme-cold damage and lengthens freeze.
+- **寒川之刃** (Cold-River Blade) — *三川苦寒菩萨*, 普通: melee does more damage to frozen targets.
+- **寒冰之躯** (Ice Body) — *三川苦寒菩萨*, 稀有: periodic ice shield that absorbs damage for a duration.
+- **寂灭之眼** (Nihility Eye) — *三川苦寒菩萨*, 绝世: large frost damage increase; triggering extreme cold grants a short window where enemies count as frozen.
+- **女神微笑** (Goddess’s Smile) — *三川苦寒菩萨*, 绝世: periodic map-wide blizzard that deals frost damage; can be accelerated by “offering souls.”
+- **天剑** (Heaven Sword) — *无量尊者*, 绝世: flying-sword damage has a chance to call down a massive heavenly sword strike.
+- **坏死恶寒** (Necrotic Chill) — *三川苦寒菩萨*, 绝世: frost damage has a small chance to rip off %max-HP immediately; doubled chance vs frozen targets.
+- **噬髓之雷** (Marrow-Eating Thunder) — *圣威怒雷金刚*, 普通: Fury Thunder damage has a small chance to heal a chunk of max HP.
+- **嗜血** (Bloodthirst) — *七剑修罗*, 普通: melee has a chance to immediately heal a chunk of max HP.
+- **命中要害** (Hit the Vital) — *无量尊者*, 普通: flying sword hits sometimes deal an extra chunk of flying-sword damage.
+- **北冥玄冰** (Netherfrost Pillar) — 通用, 绝世: after sword recall, your next flying-sword hit calls down an ice pillar and briefly freezes.
+- **判官时刻** (Judge’s Moment) — *三尸慈姑娘娘*, 绝世: using certain blood/gu techniques detonates bleed + poison states for a large burst.
+- **凛冽寒冬** (Bitter Winter) — *三川苦寒菩萨*, 稀有: raises extreme-cold proc chance; can also roll an immediate frost skill trigger.
+- **冷静** (Composure) — 通用, 稀有: when no enemies are in melee range, flying-sword damage increases greatly.
+- **冷酷** (Cruel) — *七剑修罗*, 普通: increases Cold Blood proc chance.
+- **冰霜强化** (Frost Up) — 通用, 普通: frost damage +15%.
+- **共生之蛊** (Symbiotic Gu) — *三尸慈姑娘娘*, 绝世: bleed/poison ticks can hatch a gu that damages along its flight path and heals you.
+- **全能强化** (All-Round Up) — 通用, 普通: all attack +5%.
+- **体温掠夺** (Steal Warmth) — *三川苦寒菩萨*, 普通: dealing damage to frozen targets heals ~1% max HP (once per second).
+- **伤口撕裂** (Tear Wounds) — *三尸慈姑娘娘*, 普通: melee can apply bleeding; much higher chance vs low-HP targets.
+- **以下克上** (Strike Upward) — 通用, 稀有: deal extra damage when the target’s HP% is higher than yours.
+- **人剑合一** (Man-and-Sword as One) — *七剑修罗*, 普通: when hit, chance to ignore the damage and counter-fire a flying sword that knocks back.
+- **乘火打劫** (Raid in the Fire) — *无量尊者*, 普通: flying-sword damage up; much higher vs slowed/stunned/paralyzed targets.
+- **专注** (Focus) — 通用, 普通: dealing damage stacks a short defense bonus up to a cap.
+- **不坏** (Unbroken) — *神行迷踪天尊*, 普通: “Shenxing” variant grants a protected window on entering sheath state; “Mizong” variant scales damage reduction from unused marks.
+- **不可一世** (Invincible Pride) — 通用, 稀有: when at full HP, gain a large attack bonus.
+- **不动如山** (Immovable as Mountain) — 通用, 绝世: big HP/attack/defense, but disables blink/flash step.
+- **不二打** (Second Strike) — 通用, 稀有: deal massively increased damage to full-HP enemies.
+- **三昧真火** (Samādhi True Fire) — 通用, 绝世: after enough hits, enter a timed mode where melee and flying swords add significant fire damage.
+- **万毒尸身** (Ten-Thousand Poisons Body) — *三尸慈姑娘娘*, 绝世: reduces poison taken, massively increases poison dealt, and treats you as always in true-poison state.
+- **七杀之刃** (Seven Killings Blade) — *七剑修罗*, 稀有: flying swords can also trigger Cold Blood.
+- **一壶梦生死** (A Pot of Dream: Life and Death) — *神饮明王*, 稀有: on lethal damage, restore a large chunk of HP; must “recharge” by killing many enemies.

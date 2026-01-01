@@ -1,4 +1,4 @@
-# Warm Snow (暖雪) Worldbuilding
+# Warm Snow Worldbuilding
 
 This folder collects **paraphrased** setting notes and a working glossary for adapting *Warm Snow* elements into this fanfic.
 
@@ -11,7 +11,15 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Setting overview](setting-overview.md)
 - [Factions & sects](factions-and-sects.md)
 - [Skills system](skills.md)
+- [Manuals / miji](manuals-miji.md)
 - [Relics / Elixirs](relics.md)
-- [Weapons: Excaliburs](weapons-excaliburs.md)
+- [Divine weapons / Shenbing](divine-weapons-shenbing.md)
+- [Hellborne (index)](hellborne.md)
+- [Hellborne (mechanics)](hellborne-mechanics.md)
+- [Hellborne (Bleach crossover)](hellborne-bleach.md)
+- [Hellborne (playbook & scenes)](hellborne-playbook.md)
+- [Hellborne (appendix list)](hellborne-appendix.md)
 - [Terminology & glossary (starter)](glossary.md)
 - [Sources & verification notes](sources.md)
+- [Bleach crossover: Acts and arcs](bleach-crossover-acts.md)
+- [Bleach crossover: NPCs, shops, and upgrades](bleach-crossover-npcs.md)
