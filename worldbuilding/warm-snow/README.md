@@ -23,6 +23,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Hellborne Path Leaders (builds)](hellborne-path-leaders.md)
 - [Hellborne Relic Hooks](hellborne-relic-hooks.md)
 - [Hellborne Path Hooks](hellborne-path-hooks.md)
+- [Hellborne vs Captains Matchups](hellborne-captain-matchups.md)
 - [Imperial Guard](imperial-guard.md)
 - [Bosses & Enemies](bosses-and-enemies.md)
 - [Faction Relics & Props](faction-relics.md)
