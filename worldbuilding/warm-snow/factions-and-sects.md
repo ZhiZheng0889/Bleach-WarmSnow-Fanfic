@@ -71,3 +71,15 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 - **Bosses/Enemies**: Tag each act’s boss to a clan/sect sponsor (see Bleach crossover acts). Examples: talisman bombers ? Yue smugglers; frost wardens ? Bai archivists guarding Dangai records; forge overseers ? Xu-backed ritualists.
 - **Relics/Weapons custodians**: Xu controls legal forges; Shen smuggles bio-relics; Yue moves mimics along rivers; Bai locks ritual scrolls; Long hoards military-issue mimics. Tie to Hellborne pages for mimic logistics.
 - Cross-links: see Hellborne pages for mimic logistics and Bleach crossover acts/NPCs.
+
+## Clan dossiers (quick reference)
+- **Xu (Forge Lords)**: Vice/virtue: greed vs “jobs.” Resource: iron veins, forge rights. Signature relic: Blood Quench anvil (rage generation). Alliances: sells suppressors to rogue 12th; rivals 11th. Sect tilt: Seven-Sword Shura disciples seek Xu metal; Mother Trinity despises their coercion.
+- **Bai (Archive Keepers)**: Vice/virtue: censorship vs scholarship. Resource: sealed libraries. Signature relic: Sealing Scrolls (mute Zanpakuto whispers). Alliances: Kido Corps archivists; hunted by Kuchiki records. Sect tilt: Bitter River Bodhi favors their ice records; Thunderfury chafes at restrictions.
+- **Yue (Riverwardens)**: Vice/virtue: profit vs stability. Resource: toll fleets, Senkaimon ferries. Signature relic: Tideway Tokens (bend flying sword paths). Alliances: bribes 4th; hunted by 2nd. Sect tilt: Infinite Arhat loves their flight lanes; Shadow-Walker freelances as river enforcers.
+- **Shen (Jade Apothecaries)**: Vice/virtue: human trials vs healing. Resource: herb monopolies. Signature relic: Verdant Needles (poison/antidote on command). Alliances: black-market meds with 12th; opposed by 4th. Sect tilt: Mother Trinity uses their brews; Carousing Acalantha abuses their liquor tonics.
+- **Long (Iron Banner)**: Vice/virtue: ambition vs protection. Resource: conscription pools. Signature relic: Banner of Binding (rally/slow field). Alliances: noble private guards; resented by 13th. Sect tilt: Thunderfury respects their drills; Seven-Sword Shura rebels against forced drafts.
+
+## Extra scene seeds
+- **Bai vault breach**: Urahara swaps a fake scroll while Bai seals mute his Zanpakuto; he uses Shadow Guard (Shadow-Walker) to slip the silence window.
+- **Long drill vs Kenpachi**: Long banner slows Kenpachi’s swing for once; he grins and tears it apart, revealing Banner of Binding cracks under raw Reiatsu spikes.
+- **Shen trial ward**: Mayuri walks into a Shen clinic; Verdant Needles try to auto-inject him, but he flips their polarity to create antidote gas, exposing Shen’s human trial ledgers.
