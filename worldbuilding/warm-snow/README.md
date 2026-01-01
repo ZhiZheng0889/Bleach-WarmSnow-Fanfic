@@ -21,6 +21,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Hellborne (playbook & scenes)](hellborne-playbook.md)
 - [Hellborne (appendix list)](hellborne-appendix.md)
 - [Hellborne Path Leaders (builds)](hellborne-path-leaders.md)
+- [Hellborne Relic Hooks](hellborne-relic-hooks.md)
 - [Imperial Guard](imperial-guard.md)
 - [Bosses & Enemies](bosses-and-enemies.md)
 - [Faction Relics & Props](faction-relics.md)
