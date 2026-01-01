@@ -19,6 +19,11 @@ This faction is headquartered in Hell but is actively smuggling Excaliburs and r
 - **Supply advantage**: Billions of souls feed forging, distilling, and mimic stamping; Blue Souls are extracted at scale. Soul Society relies on limited Rukongai tax and Senkaimon trade, making it resource-poor by comparison.
 - **Recon and control**: Specters and Paper Paths manage census/control of souls with talisman seals; Bai’s censorship appears tiny next to Hell’s registry chains.
 
+## Ancient clash (far past)
+- **Cause**: In a distant era, the Forge Lords of Hell tried to siphon scrap from the Soul King’s realm to birth “perfect” shenbing. Squad Zero intervened, sealing the breach and damning a generation of smiths. Hell swore vengeance over stolen birthright; Soul Society feared a forge that could rival Zanpakuto spirits.
+- **Outcome**: The breach collapsed, scattering Soul King scrap into Hell’s lower strata. Three Paths (Blade, Frost, Furnace) still hunt those fragments, while Soul Society treats any Hell forging surge as a precursor to another attempt.
+- **Present echo**: Modern clashes replay that feud—Hell seeks legitimacy and power parity; Soul Society seeks to prevent a second Soul King forge, leading to perpetual skirmishes over scrap, seals, and forging knowledge.
+
 ## Captain-class Path heads (10 pairs)
 Each Path is treated as a two-faced doctrine (offense/ritual, surface/underworld), giving twenty facets; a Leader and Vice Leader anchor those twin aspects and sit at captain parity.
 - Blade Path — Leader: *Asahi Raksha* (bleeds his own Reiatsu to sharpen mimics mid-fight); Vice: *Murasame Rei* (duelist who can mute Zanpakuto spirits for three heartbeats).
