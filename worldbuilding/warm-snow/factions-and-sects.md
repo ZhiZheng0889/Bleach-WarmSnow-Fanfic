@@ -67,7 +67,7 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 - **Mother Trinity vs Hollow swarm**: Bleed stacks turn into Crimson Sea, corroding masks; Urahara notes the poison matches Shen trials, tying clans to Hollow experimentation.
 
 ## Other factions to outline next
-- **Imperial Guard**: how they police Warm Snow outbreaks; their loyalty split toward clans.
-- **Bosses/Enemies**: which sects or clans they serve; what relics they guard.
-- **Relics/Weapons custodians**: who controls forges, who smuggles mimics (ties to Hellborne pages).
+- **Imperial Guard**: Polices Warm Snow outbreaks; splits loyalty between protecting peasants and enforcing clan edicts. Known relics: Whitewall Shields (blunt Warm Snow spores), Oath Halberds (bind deserters). Internal schism: Captain of the Outer Gates accepts Yue bribes; inner wall captain reports to Long.
+- **Bosses/Enemies**: Tag each act’s boss to a clan/sect sponsor (see Bleach crossover acts). Examples: talisman bombers ? Yue smugglers; frost wardens ? Bai archivists guarding Dangai records; forge overseers ? Xu-backed ritualists.
+- **Relics/Weapons custodians**: Xu controls legal forges; Shen smuggles bio-relics; Yue moves mimics along rivers; Bai locks ritual scrolls; Long hoards military-issue mimics. Tie to Hellborne pages for mimic logistics.
 - Cross-links: see Hellborne pages for mimic logistics and Bleach crossover acts/NPCs.
