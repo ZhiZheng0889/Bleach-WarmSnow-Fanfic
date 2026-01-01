@@ -61,19 +61,19 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 
 ## Scene seeds (drop-in prompts)
 - **Clan Yue x 2nd Division**: A Yue toll-captain hides Tideway Tokens in river lanterns; Soi Fon raids at night, only to find the tokens bend her shikai needles off-course until she tags them with Kido seals.
-- **Clan Shen x 4th Division**: Shen medics run a “free clinic” that injects Verdant Needles; Unohana arrives, senses the poison inversion, and forces a needle to flip to antidote mid-surgery.
+- **Clan Shen x 4th Division**: Shen medics run a "free clinic" that injects Verdant Needles; Unohana arrives, senses the poison inversion, and forces a needle to flip to antidote mid-surgery.
 - **Seven-Sword Shura in Rukongai**: A disciple duels Long conscripts, using Killing Intent to stagger them so river smugglers can slip past with Hellborne mimics.
-- **Infinite Arhat in Seireitei alleys**: Flying swords form a Blade Cage around a Bai archivist fleeing with banned scrolls; Byakuya’s petals clash with the cage’s orbit until Solar-Lunar pulses dim the petals.
+- **Infinite Arhat in Seireitei alleys**: Flying swords form a Blade Cage around a Bai archivist fleeing with banned scrolls; Byakuya's petals clash with the cage's orbit until Solar-Lunar pulses dim the petals.
 - **Mother Trinity vs Hollow swarm**: Bleed stacks turn into Crimson Sea, corroding masks; Urahara notes the poison matches Shen trials, tying clans to Hollow experimentation.
 
 ## Other factions to outline next
 - **Imperial Guard**: Polices Warm Snow outbreaks; splits loyalty between protecting peasants and enforcing clan edicts. Known relics: Whitewall Shields (blunt Warm Snow spores), Oath Halberds (bind deserters). Internal schism: Captain of the Outer Gates accepts Yue bribes; inner wall captain reports to Long.
-- **Bosses/Enemies**: Tag each act’s boss to a clan/sect sponsor (see Bleach crossover acts). Examples: talisman bombers ? Yue smugglers; frost wardens ? Bai archivists guarding Dangai records; forge overseers ? Xu-backed ritualists.
+- **Bosses/Enemies**: Tag each act's boss to a clan/sect sponsor (see Bleach crossover acts). Examples: talisman bombers -> Yue smugglers; frost wardens -> Bai archivists guarding Dangai records; forge overseers -> Xu-backed ritualists.
 - **Relics/Weapons custodians**: Xu controls legal forges; Shen smuggles bio-relics; Yue moves mimics along rivers; Bai locks ritual scrolls; Long hoards military-issue mimics. Tie to Hellborne pages for mimic logistics.
-- Cross-links: see Hellborne pages for mimic logistics and Bleach crossover acts/NPCs.
+- Cross-links: see Hellborne pages for mimic logistics and Bleach crossover acts/NPCs; see Imperial Guard and Bosses & Enemies pages for enforcement and antagonist mappings.
 
 ## Clan dossiers (quick reference)
-- **Xu (Forge Lords)**: Vice/virtue: greed vs “jobs.” Resource: iron veins, forge rights. Signature relic: Blood Quench anvil (rage generation). Alliances: sells suppressors to rogue 12th; rivals 11th. Sect tilt: Seven-Sword Shura disciples seek Xu metal; Mother Trinity despises their coercion.
+- **Xu (Forge Lords)**: Vice/virtue: greed vs "jobs." Resource: iron veins, forge rights. Signature relic: Blood Quench anvil (rage generation). Alliances: sells suppressors to rogue 12th; rivals 11th. Sect tilt: Seven-Sword Shura disciples seek Xu metal; Mother Trinity despises their coercion.
 - **Bai (Archive Keepers)**: Vice/virtue: censorship vs scholarship. Resource: sealed libraries. Signature relic: Sealing Scrolls (mute Zanpakuto whispers). Alliances: Kido Corps archivists; hunted by Kuchiki records. Sect tilt: Bitter River Bodhi favors their ice records; Thunderfury chafes at restrictions.
 - **Yue (Riverwardens)**: Vice/virtue: profit vs stability. Resource: toll fleets, Senkaimon ferries. Signature relic: Tideway Tokens (bend flying sword paths). Alliances: bribes 4th; hunted by 2nd. Sect tilt: Infinite Arhat loves their flight lanes; Shadow-Walker freelances as river enforcers.
 - **Shen (Jade Apothecaries)**: Vice/virtue: human trials vs healing. Resource: herb monopolies. Signature relic: Verdant Needles (poison/antidote on command). Alliances: black-market meds with 12th; opposed by 4th. Sect tilt: Mother Trinity uses their brews; Carousing Acalantha abuses their liquor tonics.
@@ -81,5 +81,5 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 
 ## Extra scene seeds
 - **Bai vault breach**: Urahara swaps a fake scroll while Bai seals mute his Zanpakuto; he uses Shadow Guard (Shadow-Walker) to slip the silence window.
-- **Long drill vs Kenpachi**: Long banner slows Kenpachi’s swing for once; he grins and tears it apart, revealing Banner of Binding cracks under raw Reiatsu spikes.
-- **Shen trial ward**: Mayuri walks into a Shen clinic; Verdant Needles try to auto-inject him, but he flips their polarity to create antidote gas, exposing Shen’s human trial ledgers.
+- **Long drill vs Kenpachi**: Long banner slows Kenpachi's swing for once; he grins and tears it apart, revealing Banner of Binding cracks under raw Reiatsu spikes.
+- **Shen trial ward**: Mayuri walks into a Shen clinic; Verdant Needles try to auto-inject him, but he flips their polarity to create antidote gas, exposing Shen's human trial ledgers.

@@ -19,6 +19,8 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Hellborne (Bleach crossover)](hellborne-bleach.md)
 - [Hellborne (playbook & scenes)](hellborne-playbook.md)
 - [Hellborne (appendix list)](hellborne-appendix.md)
+- [Imperial Guard](imperial-guard.md)
+- [Bosses & Enemies](bosses-and-enemies.md)
 - [Terminology & glossary (starter)](glossary.md)
 - [Sources & verification notes](sources.md)
 - [Bleach crossover: Acts and arcs](bleach-crossover-acts.md)
