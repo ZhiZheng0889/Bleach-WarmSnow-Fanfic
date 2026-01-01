@@ -8,3 +8,4 @@ Conjured blade spirits and additional flying swords (DLC2 sect).
 - **Hallmarks**: spectral sword familiars, multi-angle pressure, spirit blades that ignore some armor.
 - **Gear tilt**: favors flying sword damage, spirit penetration, summon duration; synergizes with Azure Dragon relics.
 - **Crossovers**: unnerves Zanpakuto spirits; Byakuya views it as Senbonzakura kin; Bai archivists covet their spirit-control methods.
+- **Duties (Gotei analog)**: Spirit control and harassment; overwhelm foes with autonomous blades, bypass armor, suppress Zanpakuto spirits briefly.

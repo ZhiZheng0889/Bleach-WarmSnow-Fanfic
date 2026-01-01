@@ -8,3 +8,4 @@ Burn + freeze duality sect; yin/yang tempo (DLC2).
 - **Hallmarks**: alternating heat/cold pulses, enemies whiplashed between slow and sear, cyclical combat rhythm.
 - **Gear tilt**: favors dual-element relics, status swap effects, cooldown management; plays well with Azure Dragon + Black Tortoise set mixing.
 - **Crossovers**: disrupts both frost and flame specialists; can jam Bai seals with temperature swings; captains struggle to read their cadence.
+- **Duties (Gotei analog)**: Flexible specialists; break stalemates by shifting elements, counter both frost and flame users, destabilize enemy timing.

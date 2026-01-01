@@ -8,3 +8,4 @@ Parry/block counter sect favoring opportunistic ripostes.
 - **Hallmarks**: patience, short counter windows, shadow feints before a decisive strike.
 - **Gear tilt**: favors block effectiveness, counter damage, stealth bonuses; Yue bribes can hide their movement.
 - **Crossovers**: ideal river enforcers for Yue; strong vs Bai censors when silenced; Soi Fon respects their timing but hunts their smugglers.
+- **Duties (Gotei analog)**: Counter-assassins and bodyguards; intercept enemy assassins, parry-first specialists, recon in shadows.
