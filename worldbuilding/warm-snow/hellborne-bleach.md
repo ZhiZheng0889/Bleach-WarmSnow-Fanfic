@@ -26,23 +26,23 @@ This faction is headquartered in Hell but is actively smuggling Excaliburs and r
 
 ## Captain-class Path heads (10 pairs)
 Each Path is treated as a two-faced doctrine (offense/ritual, surface/underworld), giving twenty facets; a Leader and Vice Leader anchor those twin aspects and sit at captain parity.
-- Blade Path — Leader: *Asahi Raksha* (bleeds his own Reiatsu to sharpen mimics mid-fight); Vice: *Murasame Rei* (duelist who can mute Zanpakuto spirits for three heartbeats).
+- Blade Path – Leader: *Asahi Rakuyo* (bleeds his own Reiatsu to sharpen mimics mid-fight); Vice: *Murasame Rei* (duelist who can mute Zanpakuto spirits for three heartbeats).
 - Duties (Gotei analog): Shock duelists and frontline captains; crack strongholds, duel enemy elites.
 - Frost Path — Leader: *Rime Tsukuyo* (stacks frost zones like Senkaimon traps); Vice: *Haku Jinpachi* (mimics fire delayed glaciers that detonate when spiritual pressure spikes).
 - Duties: Control/containment; build ice zones, lock corridors, set up shatter windows.
-- Thunder Path — Leader: *Raiden Kisho* (splices thunder-sword patterns into Shunpo, cracking barriers); Vice: *Ikazuchi Noa* (turns mimic relics into lightning rods to fry Kido nets).
+- Thunder Path – Leader: *Raiden Kisho* (splices thunder-sword patterns into Shunpo, cracking barriers); Vice: *Ikazuchi Nao* (turns mimic relics into lightning rods to fry Kido nets).
 - Duties: Strike/interdiction; break Kido nets, jam communications, snipe casters before release.
-- Poison Path — Leader: *Venia Karasu* (builds layered venoms that bypass hollow regeneration); Vice: *Sango Kiryu* (counter-poisons that flip enemy toxins into buffs).
+- Poison Path – Leader: *Karasu Benio* (builds layered venoms that bypass hollow regeneration); Vice: *Sango Kiryu* (counter-poisons that flip enemy toxins into buffs).
 - Duties: Attrition/sabotage; seed toxins, weaken garrisons, counter enemy poisons.
 - Blood Path — Leader: *Okuro Gen* (auto-distills spilled blood into rage stacks); Vice: *Shion Akeboshi* (siphons captain-level Reiatsu to heal squads through relic veils).
 - Duties: Sustainment/berserker support; fuel rage engines, drain enemy stamina, battlefield medic via blood siphon.
-- Flying Swords Path — Leader: *Yatori Kage* (micro-manages sword swarms like remote Bankai petals); Vice: *Setsuna Lian* (uses mimic blades as decoys that explode into shrapnel Ki).
+- Flying Swords Path – Leader: *Yatori Kage* (micro-manages sword swarms like remote Bankai petals); Vice: *Setsuna Rin* (uses mimic blades as decoys that explode into shrapnel Ki).
 - Duties: Aerial/ranged overwatch; corridor denial with sword fields, escort and harassment from range.
 - Chains Path — Leader: *Guren Fudo* (chains act as Hellmouth conduits, reeling in reinforcements); Vice: *Haru Natsume* (locks Zanpakuto releases for a breath using suppressor links).
 - Duties: Control and logistics; bind targets, yank captives, open Hellmouth seams for supply.
-- Furnace Path — Leader: *Magatetsu Iori* (mobile forge; can re-roll mimic stats in combat); Vice: *Riku Embers* (overheats enemy weapons until they crack like brittle mimics).
+- Furnace Path – Leader: *Magatetsu Iori* (mobile forge; can re-roll mimic stats in combat); Vice: *Riku Ensho* (overheats enemy weapons until they crack like brittle mimics).
 - Duties: Field engineering; reforge mimics on the fly, overheat enemy arms, maintain suppressors mid-battle.
-- Paper Talismans Path — Leader: *Suzu Onmyo* (hides path seals on konso; crafts talisman shikai that copy kido); Vice: *Renpa Mei* (mimic tags that fake spiritual signatures to mask raids).
+- Paper Talismans Path – Leader: *Suzu Onmyo* (hides path seals on konso; crafts talisman shikai that copy kido); Vice: *Renpa Meiho* (mimic tags that fake spiritual signatures to mask raids).
 - Duties: Sealcraft and deception; forge fake signatures, copy Kido, record Bankai silhouettes.
 - Specters Path — Leader: *Kageho Shizune* (projects Wraiths that mimic Zanpakuto spirits to mislead captains); Vice: *Arata Yomi* (turns relic mimics into detachable afterimages for feints).
 - Duties: Recon and misdirection; sow false spirits, deploy afterimages, scramble sensory captains.
