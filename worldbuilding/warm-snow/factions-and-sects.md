@@ -44,7 +44,7 @@ Sects work like statue choices: you pick a doctrine, get a starter kit of skills
 - **Imperial Guard**: Polices Warm Snow outbreaks; splits loyalty between protecting peasants and enforcing clan edicts. Known relics: Whitewall Shields (blunt Warm Snow spores), Oath Halberds (bind deserters). Internal schism: Captain of the Outer Gates accepts Yue bribes; inner wall captain reports to Long.
 - **Bosses/Enemies**: Tag each act's boss to a clan/sect sponsor (see Bleach crossover acts). Examples: talisman bombers -> Yue smugglers; frost wardens -> Bai archivists guarding Dangai records; forge overseers -> Xu-backed ritualists.
 - **Relics/Weapons custodians**: Xu controls legal forges; Shen smuggles bio-relics; Yue moves mimics along rivers; Bai locks ritual scrolls; Long hoards military-issue mimics. Tie to Hellborne pages for mimic logistics.
-- Cross-links: see Hellborne pages for mimic logistics and Bleach crossover acts/NPCs; see Imperial Guard and Bosses & Enemies pages for enforcement and antagonist mappings.
+- Cross-links: see Hellborne pages for mimic logistics and Bleach crossover acts/NPCs; see Imperial Guard and Bosses & Enemies pages for enforcement and antagonist mappings; see Faction Relics for clan-specific props.
 
 ## Clan dossiers (quick reference)
 - **Xu (Forge Lords)**: Vice/virtue: greed vs "jobs." Resource: iron veins, forge rights. Signature relic: Blood Quench anvil (rage generation). Alliances: sells suppressors to rogue 12th; rivals 11th. Sect tilt: Seven-Sword Shura disciples seek Xu metal; Mother Trinity despises their coercion.
