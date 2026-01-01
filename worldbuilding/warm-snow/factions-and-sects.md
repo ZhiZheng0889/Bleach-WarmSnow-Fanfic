@@ -1,83 +1,65 @@
-# Factions & sects (starter)
+# Factions & Sects (clean draft)
 
-## Five Great Clans
-The wiki home page describes Bi-an‚Äôs crusade as being ‚Äúagainst the Five Great Clans‚Äù. Details for each clan still need to be verified and summarized.
+Organized references for political powers and martial lineages to keep the fic consistent.
 
-Use this as a working placeholder so the fic stays consistent once you start naming them:
+## Five Great Clans (story pillars)
+The wiki frames Bi-an's crusade against "the Five Great Clans." Use these filled-in sketches as consistent anchors:
+- **Clan Xu (Forge Lords)** ó Domain: metals, foundries, weapon contracts. Public virtue: prosperity and "jobs." Vice: greed/extortion. Resource: iron veins and smithing guilds; taboo: no outsider may quench steel in clan forges without blood-price.
+- **Clan Bai (Archive Keepers)** ó Domain: scholarship, recordkeeping, law. Public virtue: scholarship/order. Vice: dogma and censorship. Resource: sealed libraries and spirit-scroll patents; taboo: speaking forbidden histories invites clan-sanctioned punishment.
+- **Clan Yue (Riverwardens)** ó Domain: trade routes, ports, grain taxes. Public virtue: stability/commerce. Vice: obsession with profit and smuggling. Resource: river checkpoints and toll fleets; taboo: traders must pour first profits into Yue coffers or be blacklisted.
+- **Clan Shen (Jade Apothecaries)** ó Domain: medicine, elixirs, hospitals. Public virtue: charity/healing. Vice: cruelty via human trials. Resource: apothecary monopolies and herb gardens; taboo: only Shen-approved elixirs may treat Warm Snow fevers.
+- **Clan Long (Iron Banner)** ó Domain: militias, bodyguards, wall defenses. Public virtue: protection. Vice: ambition and enforced conscription. Resource: conscript pools and armories; taboo: no soldier may refuse a Long banner call, even during festivals.
 
-- Clan 1: TBD
-- Clan 2: TBD
-- Clan 3: TBD
-- Clan 4: TBD
-- Clan 5: TBD
+Guidelines when you adjust them:
+- Pair a **signature vice** (greed, cruelty, dogma, obsession, cowardice) with a **public virtue** (order, prosperity, piety, scholarship, protection).
+- Give each clan a resource or region it exploits (mines, trade routes, spirit wells, forge rights).
+- Add a ritual or taboo each clan enforces; it drives conflict hooks.
 
-### Clan portrayal guidelines
-- Give each clan a **signature vice** (greed, cruelty, dogma, obsession, cowardice).
-- Give each clan a **public virtue** (order, prosperity, piety, scholarship, protection) that masks the vice.
+## Sects (canon lineages and DLC additions)
+Sects work like statue choices: you pick a doctrine, get a starter kit of skills, and unlock more aligned skills as you progress. Use these blurbs as quick reference and flavor.
 
-## Sects (named groups seen on the wiki home page)
-The wiki home page includes a ‚Äúfavorite sect‚Äù poll that lists these sect names:
+- **Seven-Sword Shura** ó Melee pressure, gap-closing, and execution windows.
+  Starter skills: Cold Blood (guaranteed), Flurry, Hidden Strike.
+  Hallmarks in prose: twin blades or greatswords, bloodthirst rites, fearless rushes into elite packs.
 
-- Seven-Sword Shura
-- Infinite Arhat
-- Carousing Acalantha
-- Thunderfury Vajra
-- Bitter River Bodhi
-- Mother Trinity
+- **Infinite Arhat** ó Flying swords and ranged pressure from hovering blades.
+  Starter skills: Infinity (guaranteed), Sword Rain, Sun Piercer. Unlock: first defeat of Sima Ying.
+  Hallmarks: orbiting sword arrays, remote slashes from odd angles, meditative calm mid-fight.
 
-### What ‚Äúsect‚Äù means (usable definition)
-In the wiki‚Äôs structure, sects are effectively **statue choices** that:
-- Define a combat focus (melee, flying swords, elements, status damage, etc.)
-- Grant a small set of **starting skills**
-- Unlock a larger pool of sect-aligned skills during the run
+- **Carousing Acalantha** ó Flame/burning and liquor-themed intoxication combat.
+  Starter skills: Burning Blade (guaranteed), Wine Soaked, Drunken Song. Unlock: first defeat of Lu Kunhai.
+  Hallmarks: swaying footwork, fiery breath clouds, enemies set ablaze while the user "toasts" mid-combo.
 
-### Sect snapshots (paraphrased)
-#### Seven-Sword Shura
-- Focus: melee pressure and finding openings for lethal hits
-- Starting skills: Cold Blood (guaranteed), plus Flurry and Hidden Strike
+- **Thunderfury Vajra** ó Lightning strikes, speed bursts, thunderbolts.
+  Starter skills: Thunderbolt (guaranteed), Swift Shadow, Wild Thunder. Unlock: first defeat of Qin Wu.
+  Hallmarks: crackling steps, sudden dashes, thunderclaps that interrupt spellcasters.
 
-#### Infinite Arhat
-- Focus: flying-sword attacks that strike from range
-- Starting skills: Infinity (guaranteed), plus Sword Rain and Sun Piercer
-- Unlock requirement (meta): first-time defeat of Sima Ying
+- **Bitter River Bodhi** ó Frost/freeze lockdown into shatter payoff.
+  Starter skills: Icy Cold (guaranteed), Bone Chill, White Frost. Unlock: first defeat of Zhao Changgeng.
+  Hallmarks: ice mist veils, slowed arenas, pressure spikes when foes are frozen in place.
 
-#### Carousing Acalantha
-- Focus: flame/burning themes, with intoxication/"liquor" imagery
-- Starting skills: Burning Blade (guaranteed), plus Wine Soaked and Drunken Song
-- Unlock requirement (meta): first-time defeat of Lu Kunhai
+- **Mother Trinity** ó Bleed/poison stacking; "blood poison" cursework.
+  Starter skills: Blood Poison (guaranteed), Blood Spatter, Infestation. Unlock: kill 9 Cursed Tomes.
+  Hallmarks: arterial sprays weaponized, venom blooms, attrition that ramps while the user stays mobile.
 
-#### Thunderfury Vajra
-- Focus: lightning damage and thunderbolt-style strikes
-- Starting skills: Thunderbolt (guaranteed), plus Swift Shadow and Wild Thunder
-- Unlock requirement (meta): first-time defeat of Qin Wu
+- **Shadow-Walker** ó Parry/block counters and opportunistic ripostes.
+  Unlock: buy via Scarlet Treasure (Red Souls).
+  Hallmarks: patience, short counter windows, shadow feints before a decisive strike.
 
-#### Bitter River Bodhi
-- Focus: frost/freeze; lock enemies down then shatter/crush them
-- Starting skills: Icy Cold (guaranteed), plus Bone Chill and White Frost
-- Unlock requirement (meta): first-time defeat of Zhao Changgeng
+- **Soul Blade Shura** ó Conjured blade spirits / additional flying swords (DLC2).
+  Unlock: defeat a DLC2 boss.
+  Hallmarks: spectral sword familiars, multi-angle pressure, spirit blades that ignore some armor.
 
-#### Mother Trinity
-- Focus: bleed/poison themes; "blood poison" style effects
-- Starting skills: Blood Poison (guaranteed), plus Blood Spatter and Infestation
-- Unlock requirement (meta): kill 9 Cursed Tomes total
+- **Wheels of Solar and Lunar** ó Burn + freeze duality; yin/yang tempo (DLC2).
+  Starter skills: Solar-Lunar (guaranteed), Opposing Extremes, Chaos. Unlock: defeat a DLC2 boss.
+  Hallmarks: alternating heat/cold pulses, enemies whiplashed between slow and sear, cyclical combat rhythm.
 
-### Additional sects referenced by the wiki‚Äôs skill index
-- Shadow-Walker: parry/block emphasis; opportunistic counterattacks (unlock: purchase via Scarlet Treasure using Red Souls)
-- Soul Blade Shura: conjuring blade spirits / flying swords (unlock: defeat a DLC2 boss)
-- Wheels of Solar and Lunar: burn + freeze duality; blends sun-heat and moon-cold (unlock: defeat a boss in DLC2)
+## Using sects in the fic
+- Treat sects as **doctrines and lineages** that grant codified techniques, blessings, and taboos.
+- In a Bleach crossover, sects can mirror **schools** (Kido traditions, clan arts, Hollow cults). Starter skills = core forms; unlocked skills = advanced spell lists.
+- Let sect doctrines color gear choices: a Thunderfury disciple favors lightning relics; Seven-Sword Shura favors melee rage builders.
 
-#### Wheels of Solar and Lunar (additional snapshot)
-- Focus: mixing **burning** and **freeze** damage; a ‚Äúyin/yang‚Äù cycle that alternates pressure and control
-- Starting skills: Solar-Lunar (guaranteed), plus Opposing Extremes and Chaos
-
-### How to use sects in the fic
-- Treat sects as **doctrines + techniques** (a worldview that shapes how they fight, heal, punish, or bargain).
-- In a Bleach crossover, sects can map cleanly to **schools** or **lineages** (like Kid≈ç traditions, clan techniques, or Hollow cults).
-
-## Other likely factions to capture next
-From the wiki‚Äôs navigation and page list, these appear to exist as categories or groups worth extracting later:
-
-- Imperial Guard
-- Bosses / Enemies (as story antagonists)
-- Relics / Excaliburs (as artifacts tied to factions)
-
+## Other factions to outline next
+- **Imperial Guard**: how they police Warm Snow outbreaks; their loyalty split toward clans.
+- **Bosses/Enemies**: which sects or clans they serve; what relics they guard.
+- **Relics/Weapons custodians**: who controls forges, who smuggles mimics (ties to Hellborne pages).
