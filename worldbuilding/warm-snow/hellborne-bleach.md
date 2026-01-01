@@ -7,54 +7,54 @@ This faction is headquartered in Hell but is actively smuggling Excaliburs and r
 
 - Rarity logic (Hell standard): Unique is the ceiling; each Unique Excalibur or relic is a singular soul-stamped artifact tied to a specific Path and cannot be copied. Everything below Unique is a mimic, mass-produced in lots that thin out quality as rarity drops (mythic > legendary > epic > rare > common mimics). Mimics retain the silhouette of the original but cut corners on soul resonance, making them brittle against captain-level Reiatsu.
 - Twenty Paths: Every operative swears to one of twenty Paths (e.g., Blade, Frost, Poison, Thunder, Blood, Paper Talismans, Flying Swords, Furnace, Chains, Specters, etc.). Each Path has a Leader and Vice Leader (10 pairs), both evaluated as captain-class threats; at least three of them are rumored to rival the Royal Guard (Squad Zero) in raw pressure.
-- Structure and parity: Leaders and Vice Leaders function like Gotei captains‚Äîown barracks, research cells, and hand-picked seated members. Some non-captain-ranked artisans and scouts have achieved equivalent force, creating wild-card actors who answer to no court and move between Hell and Soul Society freely.
-- Logistics of the breach: Paths specialize their gateways‚ÄîChains Path opens Hellmouth seams in shadowed corners of Seireitei, Paper Talismans Path hides seals on konso rites, Furnace Path forges suppressors that make Excaliburs read as mundane Zanpakuto until released.
-- Weapon doctrine: Unique artifacts stay with Leaders/Vice Leaders; mimics equip vanguard teams to overwhelm squads with unfamiliar mechanics (rage gain, sheath cooldown tricks, status layering) before the captains can parse them. Relic sets are issued similarly: Unique relics anchor a Path‚Äôs ritual, while mimics circulate among foot soldiers to sow confusion.
-- Power ceiling and anomalies: A handful of duelists without formal rank (failed Leaders, rogue smiths, exiled Visored) have bonded to mimics so perfectly that they fight on par with captains, showing that Hell‚Äôs tech can elevate outliers even without a Unique core.
+- Structure and parity: Leaders and Vice Leaders function like Gotei captainsóown barracks, research cells, and hand-picked seated members. Some non-captain-ranked artisans and scouts have achieved equivalent force, creating wild-card actors who answer to no court and move between Hell and Soul Society freely.
+- Logistics of the breach: Paths specialize their gatewaysóChains Path opens Hellmouth seams in shadowed corners of Seireitei, Paper Talismans Path hides seals on konso rites, Furnace Path forges suppressors that make Excaliburs read as mundane Zanpakuto until released.
+- Weapon doctrine: Unique artifacts stay with Leaders/Vice Leaders; mimics equip vanguard teams to overwhelm squads with unfamiliar mechanics (rage gain, sheath cooldown tricks, status layering) before the captains can parse them. Relic sets are issued similarly: Unique relics anchor a Pathís ritual, while mimics circulate among foot soldiers to sow confusion.
+- Power ceiling and anomalies: A handful of duelists without formal rank (failed Leaders, rogue smiths, exiled Visored) have bonded to mimics so perfectly that they fight on par with captains, showing that Hellís tech can elevate outliers even without a Unique core.
 
 ## Scale and logistics (Hell vs Soul Society)
-- **Population**: Hell holds billions of souls across layered strata and endless furnaces, dwarfing Seireitei‚Äôs hundreds of thousands. Soul pressure density is uneven, creating ‚Äúpressure oceans‚Äù where Paths recruit elites.
+- **Population**: Hell holds billions of souls across layered strata and endless furnaces, dwarfing Seireiteiís hundreds of thousands. Soul pressure density is uneven, creating ìpressure oceansî where Paths recruit elites.
 - **Territory**: Hell spans industrial forges, wastelands, and chained cities; Seireitei is a walled enclave. Chains and Furnace Paths run railways and Hellmouths as supply lines.
 - **Manpower doctrine**: Hellborne fields mass mimic-equipped levies and a smaller cadre of Path elites. They can afford to lose thousands of grunts to probe captains while preserving Unique artifacts for decisive strikes.
 - **Supply advantage**: Billions of souls feed forging, distilling, and mimic stamping; Blue Souls are extracted at scale. Soul Society relies on limited Rukongai tax and Senkaimon trade, making it resource-poor by comparison.
-- **Recon and control**: Specters and Paper Paths manage census/control of souls with talisman seals; Bai‚Äôs censorship appears tiny next to Hell‚Äôs registry chains.
+- **Recon and control**: Specters and Paper Paths manage census/control of souls with talisman seals; Baiís censorship appears tiny next to Hellís registry chains.
 
 ## Ancient clash (far past)
-- **Cause**: In a distant era, the Forge Lords of Hell tried to siphon scrap from the Soul King‚Äôs realm to birth ‚Äúperfect‚Äù shenbing. Squad Zero intervened, sealing the breach and damning a generation of smiths. Hell swore vengeance over stolen birthright; Soul Society feared a forge that could rival Zanpakuto spirits.
-- **Outcome**: The breach collapsed, scattering Soul King scrap into Hell‚Äôs lower strata. Three Paths (Blade, Frost, Furnace) still hunt those fragments, while Soul Society treats any Hell forging surge as a precursor to another attempt.
-- **Present echo**: Modern clashes replay that feud‚ÄîHell seeks legitimacy and power parity; Soul Society seeks to prevent a second Soul King forge, leading to perpetual skirmishes over scrap, seals, and forging knowledge.
+- **Cause**: In a distant era, the Forge Lords of Hell tried to siphon scrap from the Soul Kingís realm to birth ìperfectî shenbing. Squad Zero intervened, sealing the breach and damning a generation of smiths. Hell swore vengeance over stolen birthright; Soul Society feared a forge that could rival Zanpakuto spirits.
+- **Outcome**: The breach collapsed, scattering Soul King scrap into Hellís lower strata. Three Paths (Blade, Frost, Furnace) still hunt those fragments, while Soul Society treats any Hell forging surge as a precursor to another attempt.
+- **Present echo**: Modern clashes replay that feudóHell seeks legitimacy and power parity; Soul Society seeks to prevent a second Soul King forge, leading to perpetual skirmishes over scrap, seals, and forging knowledge.
 
 ## Captain-class Path heads (10 pairs)
 Each Path is treated as a two-faced doctrine (offense/ritual, surface/underworld), giving twenty facets; a Leader and Vice Leader anchor those twin aspects and sit at captain parity.
-- Blade Path ‚Äì Leader: *Asahi Rakuyo* (bleeds his own Reiatsu to sharpen mimics mid-fight); Vice: *Murasame Rei* (duelist who can mute Zanpakuto spirits for three heartbeats).
+- Blade Path ó Leader: *Zhao Lie* (bleeds his own Reiatsu to sharpen mimics mid-fight); Vice: *Mu Ren* (duelist who can mute Zanpakuto spirits for three heartbeats).
 - Duties (Gotei analog): Shock duelists and frontline captains; crack strongholds, duel enemy elites.
-- Frost Path ‚Äî Leader: *Rime Tsukuyo* (stacks frost zones like Senkaimon traps); Vice: *Haku Jinpachi* (mimics fire delayed glaciers that detonate when spiritual pressure spikes).
+- Frost Path ó Leader: *Leng Xue* (stacks frost zones like Senkaimon traps); Vice: *Han Bing* (mimics fire delayed glaciers that detonate when spiritual pressure spikes).
 - Duties: Control/containment; build ice zones, lock corridors, set up shatter windows.
-- Thunder Path ‚Äì Leader: *Raiden Kisho* (splices thunder-sword patterns into Shunpo, cracking barriers); Vice: *Ikazuchi Nao* (turns mimic relics into lightning rods to fry Kido nets).
+- Thunder Path ó Leader: *Lei Guang* (splices thunder-sword patterns into Shunpo, cracking barriers); Vice: *Dian Yu* (turns mimic relics into lightning rods to fry Kido nets).
 - Duties: Strike/interdiction; break Kido nets, jam communications, snipe casters before release.
-- Poison Path ‚Äì Leader: *Karasu Benio* (builds layered venoms that bypass hollow regeneration); Vice: *Sango Kiryu* (counter-poisons that flip enemy toxins into buffs).
+- Poison Path ó Leader: *Du Ming* (builds layered venoms that bypass hollow regeneration); Vice: *Yao Zhi* (counter-poisons that flip enemy toxins into buffs).
 - Duties: Attrition/sabotage; seed toxins, weaken garrisons, counter enemy poisons.
-- Blood Path ‚Äî Leader: *Okuro Gen* (auto-distills spilled blood into rage stacks); Vice: *Shion Akeboshi* (siphons captain-level Reiatsu to heal squads through relic veils).
+- Blood Path ó Leader: *Xue Yuan* (auto-distills spilled blood into rage stacks); Vice: *Chi Lian* (siphons captain-level Reiatsu to heal squads through relic veils).
 - Duties: Sustainment/berserker support; fuel rage engines, drain enemy stamina, battlefield medic via blood siphon.
-- Flying Swords Path ‚Äì Leader: *Yatori Kage* (micro-manages sword swarms like remote Bankai petals); Vice: *Setsuna Rin* (uses mimic blades as decoys that explode into shrapnel Ki).
+- Flying Swords Path ó Leader: *Jian Fei* (micro-manages sword swarms like remote Bankai petals); Vice: *Ling Jian* (uses mimic blades as decoys that explode into shrapnel Ki).
 - Duties: Aerial/ranged overwatch; corridor denial with sword fields, escort and harassment from range.
-- Chains Path ‚Äî Leader: *Guren Fudo* (chains act as Hellmouth conduits, reeling in reinforcements); Vice: *Haru Natsume* (locks Zanpakuto releases for a breath using suppressor links).
+- Chains Path ó Leader: *Suo Heng* (chains act as Hellmouth conduits, reeling in reinforcements); Vice: *Lian Suo* (locks Zanpakuto releases for a breath using suppressor links).
 - Duties: Control and logistics; bind targets, yank captives, open Hellmouth seams for supply.
-- Furnace Path ‚Äì Leader: *Magatetsu Iori* (mobile forge; can re-roll mimic stats in combat); Vice: *Riku Ensho* (overheats enemy weapons until they crack like brittle mimics).
+- Furnace Path ó Leader: *Rong Yan* (mobile forge; can re-roll mimic stats in combat); Vice: *Huo Xin* (overheats enemy weapons until they crack like brittle mimics).
 - Duties: Field engineering; reforge mimics on the fly, overheat enemy arms, maintain suppressors mid-battle.
-- Paper Talismans Path ‚Äì Leader: *Suzu Onmyo* (hides path seals on konso; crafts talisman shikai that copy kido); Vice: *Renpa Meiho* (mimic tags that fake spiritual signatures to mask raids).
+- Paper Talismans Path ó Leader: *Fu Shen* (hides path seals on konso; crafts talisman shikai that copy kido); Vice: *Zhi Wen* (mimic tags that fake spiritual signatures to mask raids).
 - Duties: Sealcraft and deception; forge fake signatures, copy Kido, record Bankai silhouettes.
-- Specters Path ‚Äî Leader: *Kageho Shizune* (projects Wraiths that mimic Zanpakuto spirits to mislead captains); Vice: *Arata Yomi* (turns relic mimics into detachable afterimages for feints).
+- Specters Path ó Leader: *You Hun* (projects Wraiths that mimic Zanpakuto spirits to mislead captains); Vice: *Ling Ying* (turns relic mimics into detachable afterimages for feints).
 - Duties: Recon and misdirection; sow false spirits, deploy afterimages, scramble sensory captains.
 
 ## Sample Unique/mimic relic pairs for scenes
 - Blood Calyx (Unique): Grows thorns inside the user, converting self-bleed into armor-piercing thrusts; *Calyx Copies (legendary/epic mimics)* leak power, leaving trails captains can read.
 - Azure Filament Charm (Unique): Threads lightning between flying swords, letting them jump like Senbonzakura-lightning; *Filament Cutouts (epic/rare mimics)* only arc twice before burning out.
-- Furnace Heart Core (Unique): A chest-plated forge that lets the bearer reroll an Excalibur‚Äôs stat line once per encounter; *Core Coals (legendary mimics)* allow a single reroll per day with risk of shatter.
+- Furnace Heart Core (Unique): A chest-plated forge that lets the bearer reroll an Excaliburís stat line once per encounter; *Core Coals (legendary mimics)* allow a single reroll per day with risk of shatter.
 - Chains of Return (Unique): Drag any struck target toward the gate to Hell, even through Bakudo; *Recall Links (rare mimics)* yank only across line-of-sight and snap if blocked by captain Reiatsu.
 - Talisman of False Moon (Unique): Creates a perfect spiritual afterimage that fools Zanpakuto spirits for a count of ten; *Wax Moon Talismans (epic/rare mimics)* flicker after two counts, enough for ambushes but weak to sensory captains.
 
 ## Doctrine vs Zanpakuto (combat build philosophy)
-- Core difference: Hellborne operatives build around Excalibur + relic synergies; Zanpakuto play a distant second as tools or disguises. Their ‚ÄúSkills‚Äù are Path seals‚Äîfunctionally Kido equivalents that slot like Warm Snow skills (buffs, projectiles, traps).
+- Core difference: Hellborne operatives build around Excalibur + relic synergies; Zanpakuto play a distant second as tools or disguises. Their ìSkillsî are Path sealsófunctionally Kido equivalents that slot like Warm Snow skills (buffs, projectiles, traps).
 - Loadout cadence: An operative treats an Excalibur as the main trigger (weapon effect), a relic set as the engine (Core/Power/Agility/Skill slots), and a skill/Kido analogue as the primer that unlocks conditions. Bankai-class releases are rare; Unique artifacts substitute for final releases.
 - Counterplay: Captains look for relic tells (slot glow, mimic stutter) instead of Zanpakuto release chants. Hellborne counter by layering suppressor talismans that mask relic signatures until the Excalibur effect procs.
