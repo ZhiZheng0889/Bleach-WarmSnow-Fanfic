@@ -16,43 +16,17 @@ Guidelines when you adjust them:
 - Add a ritual or taboo each clan enforces; it drives conflict hooks.
 
 ## Sects (canon lineages and DLC additions)
-Sects work like statue choices: you pick a doctrine, get a starter kit of skills, and unlock more aligned skills as you progress. Use these blurbs as quick reference and flavor.
+Sects work like statue choices: you pick a doctrine, get a starter kit of skills, and unlock more aligned skills as you progress. Use these blurbs as quick reference; detailed pages live under `sects/`.
 
-- **Seven-Sword Shura** - Melee pressure, gap-closing, and execution windows.
-  Starter skills: Cold Blood (guaranteed), Flurry, Hidden Strike. Marquee skills: Killing Intent, Bloodbath.
-  Hallmarks in prose: twin blades or greatswords, bloodthirst rites, fearless rushes into elite packs.
-
-- **Infinite Arhat** - Flying swords and ranged pressure from hovering blades.
-  Starter skills: Infinity (guaranteed), Sword Rain, Sun Piercer. Unlock: first defeat of Sima Ying. Marquee skills: Sword Dance, Blade Cage.
-  Hallmarks: orbiting sword arrays, remote slashes from odd angles, meditative calm mid-fight.
-
-- **Carousing Acalantha** - Flame/burning and liquor-themed intoxication combat.
-  Starter skills: Burning Blade (guaranteed), Wine Soaked, Drunken Song. Unlock: first defeat of Lu Kunhai. Marquee skills: Incinerate, Demon Wine.
-  Hallmarks: swaying footwork, fiery breath clouds, enemies set ablaze while the user "toasts" mid-combo.
-
-- **Thunderfury Vajra** - Lightning strikes, speed bursts, thunderbolts.
-  Starter skills: Thunderbolt (guaranteed), Swift Shadow, Wild Thunder. Unlock: first defeat of Qin Wu. Marquee skills: Furious Thunder, Thunder Prison.
-  Hallmarks: crackling steps, sudden dashes, thunderclaps that interrupt spellcasters.
-
-- **Bitter River Bodhi** - Frost/freeze lockdown into shatter payoff.
-  Starter skills: Icy Cold (guaranteed), Bone Chill, White Frost. Unlock: first defeat of Zhao Changgeng. Marquee skills: Frost Arm, Frost Army.
-  Hallmarks: ice mist veils, slowed arenas, pressure spikes when foes are frozen in place.
-
-- **Mother Trinity** - Bleed/poison stacking; "blood poison" cursework.
-  Starter skills: Blood Poison (guaranteed), Blood Spatter, Infestation. Unlock: kill 9 Cursed Tomes. Marquee skills: Crimson Sea, Parasite.
-  Hallmarks: arterial sprays weaponized, venom blooms, attrition that ramps while the user stays mobile.
-
-- **Shadow-Walker** - Parry/block counters and opportunistic ripostes.
-  Unlock: buy via Scarlet Treasure (Red Souls). Marquee skills: Shadow Guard, Reversal.
-  Hallmarks: patience, short counter windows, shadow feints before a decisive strike.
-
-- **Soul Blade Shura** - Conjured blade spirits / additional flying swords (DLC2).
-  Unlock: defeat a DLC2 boss. Marquee skills: Blade Spirit, Ten Thousand Swords.
-  Hallmarks: spectral sword familiars, multi-angle pressure, spirit blades that ignore some armor.
-
-- **Wheels of Solar and Lunar** - Burn + freeze duality; yin/yang tempo (DLC2).
-  Starter skills: Solar-Lunar (guaranteed), Opposing Extremes, Chaos. Unlock: defeat a DLC2 boss. Marquee skills: Duality, Last Eclipse.
-  Hallmarks: alternating heat/cold pulses, enemies whiplashed between slow and sear, cyclical combat rhythm.
+- **Seven-Sword Shura** - Melee pressure, gap-closing, and execution windows. [Details](sects/seven-sword-shura.md)
+- **Infinite Arhat** - Flying swords and ranged pressure from hovering blades. [Details](sects/infinite-arhat.md)
+- **Carousing Acalantha** - Flame/burning and liquor-themed intoxication combat. [Details](sects/carousing-acalantha.md)
+- **Thunderfury Vajra** - Lightning strikes, speed bursts, thunderbolts. [Details](sects/thunderfury-vajra.md)
+- **Bitter River Bodhi** - Frost/freeze lockdown into shatter payoff. [Details](sects/bitter-river-bodhi.md)
+- **Mother Trinity** - Bleed/poison stacking; "blood poison" cursework. [Details](sects/mother-trinity.md)
+- **Shadow-Walker** - Parry/block counters and opportunistic ripostes. [Details](sects/shadow-walker.md)
+- **Soul Blade Shura** - Conjured blade spirits / additional flying swords (DLC2). [Details](sects/soul-blade-shura.md)
+- **Wheels of Solar and Lunar** - Burn + freeze duality; yin/yang tempo (DLC2). [Details](sects/wheels-of-solar-and-lunar.md)
 
 ## Using sects in the fic
 - Treat sects as **doctrines and lineages** that grant codified techniques, blessings, and taboos.

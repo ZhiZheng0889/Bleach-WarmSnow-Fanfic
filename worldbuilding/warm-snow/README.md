@@ -14,6 +14,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Manuals / miji](manuals-miji.md)
 - [Relics / Elixirs](relics.md)
 - [Divine weapons / Shenbing](divine-weapons-shenbing.md)
+- [Sects (index)](sects/README.md)
 - [Hellborne (index)](hellborne.md)
 - [Hellborne (mechanics)](hellborne-mechanics.md)
 - [Hellborne (Bleach crossover)](hellborne-bleach.md)
