@@ -23,6 +23,7 @@ This faction is headquartered in Hell but is actively smuggling Excaliburs and r
 - **Hellborne (founding doctrine)**: Collectivist, proto-communist framing—no noble bloodlines, no sacred estates; legitimacy comes from labor, craft, and contribution to the commons. The forge (and its product) is owned by the many, administered through Paths as worker-soldier orders.
 - **Founder’s origin (why he rejects feudalism)**: He came from a Warm Snow-like mortal world that failed under clan/court hierarchy during a slow catastrophe. The survivors endured by pooling labor, food, and craft knowledge into communes; that lived experience became Hellborne’s moral core (shared survival tools, suspicion of “mercy” as privilege).
 - **Soul King (founding doctrine)**: Feudal framing—hierarchy as stability; courts, noble houses, oaths, and fixed stations to keep the realms from collapsing into endless war. Authority flows downward from a sacred center, and law is maintained through duty and rank.
+- **Personal dynamic (friends and nemeses)**: The Soul/Spirit King can see futures but remains idealistic (almost like a naive noble son with too much power); the Hellborne founder cannot see futures, but predicts outcomes by reading human nature at its darkest.
 - **Story seed**: See `story/00-prologue.md` for the first meeting framing.
 
 ## Ancient clash (far past)

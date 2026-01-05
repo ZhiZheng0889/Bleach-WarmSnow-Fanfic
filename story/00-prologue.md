@@ -28,11 +28,19 @@ He turned his face toward the white.
 
 A figure waited there—motionless, patient enough to be terrifying. The First Smith felt the pressure first, not as force, but as a demand: *Be defined.*
 
-“Soul King,” the First Smith said.
+“Spirit King,” the First Smith said.
+
+Then, conceding to the way history would simplify and harden titles into law, he added: “Soul King.”
 
 The title did not echo. The realm swallowed it, as if the sound had always belonged to that figure.
 
 The Soul King’s eyes were open, and yet the First Smith had the unnerving sense that he was being watched by something older than sight.
+
+Not older than time.
+
+Older than *choice*.
+
+Those eyes did not simply look at him. They looked past him—down branching roads the First Smith could not see.
 
 “You came from the lower heat,” the Soul King said. His voice was not loud. It did not need to be.
 
@@ -91,6 +99,10 @@ The Soul King’s expression did not change. Somehow, that was the sharpest cond
 
 “There is another way,” the Soul King said. “To separate, to balance. To keep each thing in its place so the whole does not collapse.”
 
+He spoke like a noble son raised on the idea that duty, properly arranged, could tame any storm.
+
+“I have seen what happens if I do nothing,” he added, quieter. “I have seen the wars that come when every hungry hand grabs at the same throat.”
+
 As he spoke, the white side answered him.
 
 Lines gathered in the air like threads pulled taut. A center implied itself—an axis, a court, a sacred point from which everything else could be measured and commanded.
@@ -102,6 +114,10 @@ The First Smith laughed once—dry, more sound of disbelief than mirth.
 “Balance is a word people use when they want stillness,” he said. “Stillness is death that flatters itself. You would freeze the world because you fear what it becomes when it moves.”
 
 “I would prevent endless war,” the Soul King replied.
+
+He sounded sincere.
+
+That sincerity—so absolute, so confident—was almost… naive.
 
 The First Smith stepped forward, and the seam beneath his boots rippled. The warm snow rose from the ground as if startled.
 
@@ -132,6 +148,28 @@ The First Smith did not deny it.
 “Fire reveals what lies,” he said. “Your order hides it. You will make a world where souls pretend not to hurt, and you will name that pretense ‘peace.’”
 
 The Soul King’s gaze drifted upward. The warm snow fell between them like a curtain.
+
+“I can see futures,” the Soul King said, as if offering an olive branch. “Too many of them. I can see where a single mercy becomes a war, where a single insult becomes a massacre.”
+
+His eyes found the First Smith again.
+
+“That is why I need hierarchy,” he said. “Names that bind. Houses that hold. Oaths that keep the many from tearing each other apart.”
+
+The First Smith’s mouth twitched.
+
+“You see the future,” he said. “And you still believe people will behave.”
+
+“They can,” the Soul King said.
+
+“I can’t see tomorrow,” the First Smith replied. “But I can predict one thing with perfect accuracy: what happens to human nature when the bowl is empty.
+
+The noble hoards. The loyal lie. The fearful obey until they’re told to kill, and then they call it duty.”
+
+For a moment—only a moment—the Soul King’s expression softened.
+
+It looked like grief.
+
+Or like friendship trying to survive first contact with reality.
 
 “In the end,” the Soul King said, “your ladder reaches the same height as any other. Above it is only collapse.”
 
@@ -180,6 +218,12 @@ The First Smith lowered the shard, cradling it like a promise.
 Warm snow fell.
 
 Somewhere deep in the black, a furnace answered.
+
+And somewhere in the white, a court was already being imagined.
+
+Friends, the First Smith thought—because there was no other word for the strange respect he felt.
+
+Nemeses, too.
 
 ## Notes
 - Continuity: This is pre-Seireitei / pre-courts; establishes the philosophical root of Hellborne doctrine vs Soul King’s balance.
