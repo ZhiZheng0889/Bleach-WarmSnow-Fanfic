@@ -179,4 +179,5 @@ Somewhere deep in the black, a furnace answered.
 
 ## Notes
 - Continuity: This is pre-Seireitei / pre-courts; establishes the philosophical root of Hellborne doctrine vs Soul King’s balance.
+- Continuity: Founder’s anti-feudal stance comes from surviving a Warm Snow-like collapse via mutual-aid communes.
 - Foreshadowing: The “shard” implies Soul King scrap later scattered into Hell’s strata (ties into `hellborne-bleach.md` Ancient clash).
