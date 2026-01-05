@@ -2,6 +2,7 @@
 
 ## Story
 - story/README.md
+- story/00-prologue.md
 
 ## Characters
 - characters/README.md
