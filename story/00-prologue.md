@@ -95,6 +95,8 @@ As he spoke, the white side answered him.
 
 Lines gathered in the air like threads pulled taut. A center implied itself—an axis, a court, a sacred point from which everything else could be measured and commanded.
 
+Houses. Oaths. Duties that flowed downward like inheritance.
+
 The First Smith laughed once—dry, more sound of disbelief than mirth.
 
 “Balance is a word people use when they want stillness,” he said. “Stillness is death that flatters itself. You would freeze the world because you fear what it becomes when it moves.”
