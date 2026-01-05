@@ -75,6 +75,8 @@ He lifted his chin, as if tasting the word the other wore like a crown.
 
 The First Smith’s voice stayed even, but his intent sharpened.
 
+“We will have Paths,” he said, “but as guilds of labor and duty—not bloodlines. No soul is born above the furnace.”
+
 “Not ‘charity’ from above,” he said. “Not mercy as a privilege. A society where the means to survive—the furnace, the grain, the blade, the seal—are held in common, because disaster does not ask permission before it arrives.”
 
 The Soul King looked past him, into the black.
