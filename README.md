@@ -3,7 +3,8 @@
 A fanfic writing repository merging *Bleach* and *Warm Snow* into a single cultivation/afterlife setting.
 
 ## Structure
-- `story/`: chapters and scenes
+- `story/`: story entry points (see `story/arcs/`)
+- `story/arcs/`: chapters grouped into arcs
 - `characters/`: character sheets
 - `worldbuilding/`: setting notes, systems, terminology
 - `outline/`: plot and beat outlines
