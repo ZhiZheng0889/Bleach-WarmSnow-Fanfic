@@ -23,3 +23,5 @@ Chapters and scenes live under story arcs.
 - [12-chapter-12.md](arcs/01-clash-of-worlds-death-01/12-chapter-12.md)
 - [13-chapter-13.md](arcs/01-clash-of-worlds-death-01/13-chapter-13.md)
 - [14-chapter-14.md](arcs/01-clash-of-worlds-death-01/14-chapter-14.md)
+- [15-chapter-15.md](arcs/01-clash-of-worlds-death-01/15-chapter-15.md)
+- [16-chapter-16.md](arcs/01-clash-of-worlds-death-01/16-chapter-16.md)
