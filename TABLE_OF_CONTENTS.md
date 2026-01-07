@@ -16,6 +16,8 @@
 - story/arcs/01-clash-of-worlds-death-01/10-chapter-10.md
 - story/arcs/01-clash-of-worlds-death-01/11-chapter-11.md
 - story/arcs/01-clash-of-worlds-death-01/12-chapter-12.md
+- story/arcs/01-clash-of-worlds-death-01/13-chapter-13.md
+- story/arcs/01-clash-of-worlds-death-01/14-chapter-14.md
 
 ## Characters
 - characters/README.md
