@@ -36,3 +36,8 @@ Right now, the existing draft chapters are in Death Stage 01:
 - [14-chapter-14.md](01-clash-of-worlds-death-01/14-chapter-14.md)
 - [15-chapter-15.md](01-clash-of-worlds-death-01/15-chapter-15.md)
 - [16-chapter-16.md](01-clash-of-worlds-death-01/16-chapter-16.md)
+- [17-chapter-17.md](01-clash-of-worlds-death-01/17-chapter-17.md)
+- [18-chapter-18.md](01-clash-of-worlds-death-01/18-chapter-18.md)
+- [19-chapter-19.md](01-clash-of-worlds-death-01/19-chapter-19.md)
+- [20-chapter-20.md](01-clash-of-worlds-death-01/20-chapter-20.md)
+- [21-chapter-21.md](01-clash-of-worlds-death-01/21-chapter-21.md)

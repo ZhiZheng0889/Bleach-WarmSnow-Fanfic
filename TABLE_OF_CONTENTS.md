@@ -20,6 +20,11 @@
 - story/arcs/01-clash-of-worlds-death-01/14-chapter-14.md
 - story/arcs/01-clash-of-worlds-death-01/15-chapter-15.md
 - story/arcs/01-clash-of-worlds-death-01/16-chapter-16.md
+- story/arcs/01-clash-of-worlds-death-01/17-chapter-17.md
+- story/arcs/01-clash-of-worlds-death-01/18-chapter-18.md
+- story/arcs/01-clash-of-worlds-death-01/19-chapter-19.md
+- story/arcs/01-clash-of-worlds-death-01/20-chapter-20.md
+- story/arcs/01-clash-of-worlds-death-01/21-chapter-21.md
 
 ## Characters
 - characters/README.md
