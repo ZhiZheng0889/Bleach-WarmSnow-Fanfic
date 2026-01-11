@@ -26,7 +26,7 @@ Both outcomes were useful.
 
 But only one was safe.
 
-Now, safety was a luxury the realm had burned.
+Now, safety was a luxury the realm had already burned.
 
 Gao Yue climbed the steps with a procession behind her: House heads, priests, scribes bearing the Registry of Breath, and guards carrying a lacquer box she did not look at.
 
