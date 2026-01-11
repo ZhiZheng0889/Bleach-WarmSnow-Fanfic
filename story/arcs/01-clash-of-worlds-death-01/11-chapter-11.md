@@ -54,7 +54,7 @@ Gao Yue did not blink.
 
 The ritualist spoke carefully.
 
-“It takes a name,” he said, “and makes the name heavy.”
+"It takes a name," he said, "and makes it heavy."
 
 He swallowed.
 
