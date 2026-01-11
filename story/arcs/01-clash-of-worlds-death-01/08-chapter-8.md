@@ -308,7 +308,7 @@ Short things spread.
 
 By nightfall, the chant was drifting through alleys like smoke.
 
-And the nobles had taken the first step of escalation without drawing a single blade.
+And the nobles had taken the first step of escalation without drawing a blade.
 
 ## Notes
 - Continuity: This follows Chapter 7’s chaos—Houses learn they must unify to survive.

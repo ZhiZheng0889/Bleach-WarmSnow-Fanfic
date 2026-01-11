@@ -238,7 +238,7 @@ Someone would fill it.
 
 Ren sprinted back into the courtyard.
 
-On the far bridge, a Cinderbound vanguard advanced in a tight wedge, not rushing, not slow—just unstoppable. Behind them came more, pouring into the district with the confidence of people who had already rehearsed this war in their heads a thousand times.
+	On the far bridge, a Cinderbound vanguard advanced in a tight wedge, not rushing, not slow either—just unstoppable. Behind them came more, pouring into the district with the confidence of people who had already rehearsed this war in their heads a thousand times.
 
 They moved like a sudden push through high ridges into cultivated valleys—fast, narrow, and aimed straight at the arteries.
 

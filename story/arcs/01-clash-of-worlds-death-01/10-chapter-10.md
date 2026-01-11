@@ -130,7 +130,7 @@ That was the true terror.
 
 Not that someone died.
 
-That the system could not prevent it.
+But that the system could not prevent it.
 
 He fell to his knees.
 

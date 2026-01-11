@@ -238,9 +238,9 @@ Ren’s throat tightened.
 
 Saying it felt like failure.
 
-Not of courage.
+Not courage.
 
-Of intelligence.
+Intelligence.
 
 Yan’s gaze flicked to the crowd.
 

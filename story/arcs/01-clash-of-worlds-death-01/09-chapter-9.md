@@ -132,7 +132,7 @@ A slogan beneath it:
 
 **IF YOU ARE COUNTED, YOU ARE PROTECTED.**
 
-The clerk understood the hidden clause.
+The clerk understood the unspoken clause.
 
 If you are not counted, you are prey.
 

@@ -250,7 +250,7 @@ Either way, the rite would work.
 
 The ritualist thought, not without bitterness:
 
-This is how courts win.
+This is how courts win: by making fear feel holy.
 
 ## Scene 2
 

@@ -422,7 +422,7 @@ Gao Yue lifted her hand.
 
 “Return to the registry halls,” she said. “Take your seals. Keep your families safe.”
 
-She heard the crowd’s question-chant falter.
+She heard the crowd’s question chant falter.
 
 Good.
 
