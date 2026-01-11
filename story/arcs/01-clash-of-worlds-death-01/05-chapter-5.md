@@ -176,7 +176,7 @@ He could see a world where the First Smith was right.
 
 Seeing did not make choosing easier.
 
-Sometimes it only made you complicit in whichever pain you selected.
+Sometimes it only made you complicit in whichever pain you chose.
 
 The Spirit King exhaled.
 
