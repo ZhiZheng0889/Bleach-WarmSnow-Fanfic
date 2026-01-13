@@ -35,6 +35,16 @@
 - story/arcs/01-clash-of-worlds-death-01/29-chapter-29.md
 - story/arcs/01-clash-of-worlds-death-01/30-chapter-30.md
 - story/arcs/01-clash-of-worlds-death-01/31-chapter-31.md
+- story/arcs/01-clash-of-worlds-death-01/32-chapter-32.md
+- story/arcs/01-clash-of-worlds-death-01/33-chapter-33.md
+- story/arcs/01-clash-of-worlds-death-01/34-chapter-34.md
+- story/arcs/01-clash-of-worlds-death-01/35-chapter-35.md
+- story/arcs/01-clash-of-worlds-death-01/36-chapter-36.md
+- story/arcs/01-clash-of-worlds-death-01/37-chapter-37.md
+- story/arcs/01-clash-of-worlds-death-01/38-chapter-38.md
+- story/arcs/01-clash-of-worlds-death-01/39-chapter-39.md
+- story/arcs/01-clash-of-worlds-death-01/40-chapter-40.md
+- story/arcs/01-clash-of-worlds-death-01/41-chapter-41.md
 
 ## Characters
 - characters/README.md
