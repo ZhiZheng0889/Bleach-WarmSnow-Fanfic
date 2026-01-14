@@ -10,6 +10,9 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 ## Pages
 - [Setting overview](setting-overview.md)
 - [Factions & sects](factions-and-sects.md)
+- [Technology evolution: Warm Snow side](tech-evolution-warm-snow.md)
+- [Technology evolution: Soul Society side](tech-evolution-soul-society.md)
+- [Technology evolution: crossover arms race timeline](tech-evolution-arms-race.md)
 - [Skills system](skills.md)
 - [Manuals / miji](manuals-miji.md)
 - [Relics / Elixirs](relics.md)
