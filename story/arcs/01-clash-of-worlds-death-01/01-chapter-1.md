@@ -238,6 +238,18 @@ Somewhere across the seam, the Spirit King was building a world that depended on
 
 The First Smith tapped the anvil once.
 
+### WORLD STATE UPDATE — TWO BLUEPRINTS
+
+**WHITE SIDE (Order)**
+- The Axis holds; **Above / Below** becomes a lived truth.
+- Walls exist now—separation is policy, not accident.
+- “Noble Houses” and “Court” aren’t just ideas; they are the first *interfaces* for obedience.
+
+**BLACK SIDE (Forge)**
+- The Forge stabilizes the torn world; survival becomes a shared loop.
+- Guild Paths and transparent stores make hunger visible—and therefore manageable.
+- Heat still leaks, but the world learns to live with danger instead of denying it.
+
 *I’ll build one that survives when they don’t.*
 
 ## Notes
