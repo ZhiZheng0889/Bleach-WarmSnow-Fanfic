@@ -288,6 +288,16 @@ For now, the court was loud.
 
 For now, both worlds held.
 
+### WORLD STATE UPDATE — FIRST JUDGMENT
+
+**WHITE SIDE (Law)**
+- The realm gains its first precedent: resources can belong to the *realm*, not a bloodline.
+- The court prevents today’s violence, but it also manufactures legitimacy for the houses by making them necessary.
+
+**BLACK SIDE (Transparency)**
+- The commune proves its early stability: disputes stay small because supplies and decisions remain visible.
+- The system’s first change is psychological—people learn they can eat without a surname, and that becomes a threat to any future ladder.
+
 ## Notes
 - Continuity: This chapter is the transition back to normal prose after Chapter 1’s build montage.
 - Theme: The court prevents immediate violence but manufactures legitimacy; the commune runs smoothly early because corruption hasn’t had time to institutionalize.
