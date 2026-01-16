@@ -45,6 +45,35 @@
 - story/arcs/01-clash-of-worlds-death-01/39-chapter-39.md
 - story/arcs/01-clash-of-worlds-death-01/40-chapter-40.md
 - story/arcs/01-clash-of-worlds-death-01/41-chapter-41.md
+- story/arcs/01-clash-of-worlds-death-01/42-transition-1.md
+- story/arcs/01-clash-of-worlds-death-01/43-transition-2.md
+
+- story/arcs/02-clash-of-worlds-death-02/11-transition-1.md
+- story/arcs/02-clash-of-worlds-death-02/12-transition-2.md
+
+- story/arcs/03-clash-of-worlds-death-03/00-transition-1.md
+- story/arcs/03-clash-of-worlds-death-03/01-transition-2.md
+
+- story/arcs/04-clash-of-worlds-death-04/00-transition-1.md
+- story/arcs/04-clash-of-worlds-death-04/01-transition-2.md
+
+- story/arcs/05-clash-of-worlds-death-05/00-transition-1.md
+- story/arcs/05-clash-of-worlds-death-05/01-transition-2.md
+
+- story/arcs/06-clash-of-worlds-death-06/00-transition-1.md
+- story/arcs/06-clash-of-worlds-death-06/01-transition-2.md
+
+- story/arcs/07-clash-of-worlds-death-07/00-transition-1.md
+- story/arcs/07-clash-of-worlds-death-07/01-transition-2.md
+
+- story/arcs/08-clash-of-worlds-death-08/00-transition-1.md
+- story/arcs/08-clash-of-worlds-death-08/01-transition-2.md
+
+- story/arcs/09-clash-of-worlds-death-09/00-transition-1.md
+- story/arcs/09-clash-of-worlds-death-09/01-transition-2.md
+
+- story/arcs/10-clash-of-worlds-death-10/00-transition-1.md
+- story/arcs/10-clash-of-worlds-death-10/01-transition-2.md
 
 ## Characters
 - characters/README.md

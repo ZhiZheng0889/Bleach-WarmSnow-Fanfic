@@ -61,3 +61,38 @@ Right now, the existing draft chapters are in Death Stage 01:
 - [39-chapter-39.md](01-clash-of-worlds-death-01/39-chapter-39.md)
 - [40-chapter-40.md](01-clash-of-worlds-death-01/40-chapter-40.md)
 - [41-chapter-41.md](01-clash-of-worlds-death-01/41-chapter-41.md)
+
+## Transition Chapters (Draft)
+
+Two short transition chapters per stage, used to bridge the end of one stage into the start of the next.
+
+- Death Stage 01:
+	- [42-transition-1.md](01-clash-of-worlds-death-01/42-transition-1.md)
+	- [43-transition-2.md](01-clash-of-worlds-death-01/43-transition-2.md)
+- Death Stage 02:
+	- [11-transition-1.md](02-clash-of-worlds-death-02/11-transition-1.md)
+	- [12-transition-2.md](02-clash-of-worlds-death-02/12-transition-2.md)
+- Death Stage 03:
+	- [00-transition-1.md](03-clash-of-worlds-death-03/00-transition-1.md)
+	- [01-transition-2.md](03-clash-of-worlds-death-03/01-transition-2.md)
+- Death Stage 04:
+	- [00-transition-1.md](04-clash-of-worlds-death-04/00-transition-1.md)
+	- [01-transition-2.md](04-clash-of-worlds-death-04/01-transition-2.md)
+- Death Stage 05:
+	- [00-transition-1.md](05-clash-of-worlds-death-05/00-transition-1.md)
+	- [01-transition-2.md](05-clash-of-worlds-death-05/01-transition-2.md)
+- Death Stage 06:
+	- [00-transition-1.md](06-clash-of-worlds-death-06/00-transition-1.md)
+	- [01-transition-2.md](06-clash-of-worlds-death-06/01-transition-2.md)
+- Death Stage 07:
+	- [00-transition-1.md](07-clash-of-worlds-death-07/00-transition-1.md)
+	- [01-transition-2.md](07-clash-of-worlds-death-07/01-transition-2.md)
+- Death Stage 08:
+	- [00-transition-1.md](08-clash-of-worlds-death-08/00-transition-1.md)
+	- [01-transition-2.md](08-clash-of-worlds-death-08/01-transition-2.md)
+- Death Stage 09:
+	- [00-transition-1.md](09-clash-of-worlds-death-09/00-transition-1.md)
+	- [01-transition-2.md](09-clash-of-worlds-death-09/01-transition-2.md)
+- Death Stage 10:
+	- [00-transition-1.md](10-clash-of-worlds-death-10/00-transition-1.md)
+	- [01-transition-2.md](10-clash-of-worlds-death-10/01-transition-2.md)
