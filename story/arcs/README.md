@@ -2,6 +2,8 @@
 
 This folder contains the story grouped into arcs.
 
+Each chapter should track character continuity using a **Characters** section near the top (introduced/returning/changes/relationships). This is where arc-to-arc character changes should be recorded at the chapter level.
+
 ## Clash Between Worlds — Ten Stages of Death
 
 - 01: `01-clash-of-worlds-death-01/`

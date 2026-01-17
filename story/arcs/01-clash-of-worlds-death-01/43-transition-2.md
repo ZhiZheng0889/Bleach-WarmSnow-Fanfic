@@ -1,5 +1,12 @@
 # Chapter 43 — The Cost of a Bridge
 
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Ren

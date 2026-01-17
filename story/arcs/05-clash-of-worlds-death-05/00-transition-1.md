@@ -1,5 +1,12 @@
 # Chapter — The Hunt for a Rule (Death Stage 05)
 
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Soul Society investigator (TBD)
