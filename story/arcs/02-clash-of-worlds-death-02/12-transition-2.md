@@ -1,5 +1,12 @@
 # Chapter 12 — A Ledger of Names
 
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A clinic accountant (civilian)

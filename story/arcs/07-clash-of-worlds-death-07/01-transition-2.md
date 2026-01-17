@@ -1,5 +1,12 @@
 # Chapter — Saboteurs of Mercy (Death Stage 07)
 
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A saboteur (TBD)

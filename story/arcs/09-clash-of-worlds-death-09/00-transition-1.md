@@ -1,5 +1,12 @@
 # Chapter — The Siege of Meaning (Death Stage 09)
 
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A propagandist (TBD)
