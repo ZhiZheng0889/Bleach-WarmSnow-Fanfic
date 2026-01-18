@@ -6,9 +6,18 @@
 ## Characters
 
 - **Introduced / First appearance**:
+  - Monk Zhen (Infinite Arhat strategist)
+  - Soul Society lieutenant (unnamed)
+  - Hellborne quartermaster (unnamed)
 - **Returning**:
+  - Hellborne runners (unnamed)
 - **Changes (status / power / gear / role)**:
+  - The sects diversify: techniques become **roles** (audit, logistics, care, signal-work), not just Warm Snow mutations
+  - Soul Society raids shift toward targeting *methods* (training cells) rather than only weapons
 - **Relationships / allegiances**:
+  - Infinite Arhat ↔ teaches anti-registry practice; allied with street networks
+  - Hellborne ↔ operational backbone; supports sect methods with movement and storage
+  - Soul Society ↔ suppresses rival classification/governance
 
 ## Scene 1
 
@@ -24,6 +33,12 @@ Courts invited ownership.
 
 So Infinite Arhat built something less impressive and more dangerous: a method.
 
+Warm Snow had once been the lens everyone used to describe power.
+
+If you weren’t “chosen” by the curse-weather, you were told you were ordinary.
+
+Zhen treated that as another lie the court wanted you to believe.
+
 He stood inside a ruined registry hall.
 
 The nobles had fled when Bitter River opened the gates.
@@ -37,6 +52,12 @@ Now the hall held chalkboards.
 Not prayer.
 
 Arithmetic.
+
+Breath cycles.
+
+Footwork for moving sacks without spilling.
+
+Hand signals that turned a ration line into a formation.
 
 Zhen faced a room of workers.
 
@@ -95,6 +116,12 @@ He spread Zhen’s new “audit sheets” on a table.
 Not names.
 
 Not surnames.
+
+On the back wall, someone had painted the old sect boast—*one strike, one legend*—and crossed it out.
+
+Under it, in plain script:
+
+*One method, one thousand hands.*
 
 Tallies.
 
@@ -200,6 +227,11 @@ Not to kill.
 
 To intimidate.
 
+Not a Warm Snow flare.
+
+Not a mystical omen.
+
+Just coordination.
 Then a Hellborne hammer rang somewhere outside.
 
 Once.
@@ -236,5 +268,6 @@ They cannot take a method once you’ve learned it.”
 
 ## Notes
 - Infinite Arhat’s contribution: turns “count them back” into a scalable practice.
+- Sects evolution: moves from Warm Snow-bound “powers” to transferable techniques (breath, formation, logistics, teaching).
 - Hellborne win condition: out-govern the governors, not out-slaughter them.
-- Soul Society loss: monopoly on classification fractures when the street learns audits.
+- Soul Society response: targets training cells and methods once fear stops working.
