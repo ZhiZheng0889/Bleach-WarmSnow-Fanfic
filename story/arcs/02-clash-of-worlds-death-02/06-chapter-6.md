@@ -6,9 +6,19 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Lin Shun (Shadow Walker infiltrator)
+	- Palace warden (unnamed)
+	- Cinderbound elder (unnamed)
 - **Returning**:
+	- Madam Lian (Carousing Acalantha host)
+	- Monk Zhen (Infinite Arhat strategist)
 - **Changes (status / power / gear / role)**:
+	- Hellborne begins standardizing “blueprint scrolls” (modular manuals that unify cultivation, crafts, logistics, and rites)
+	- Shadow Walker’s role expands: infiltration supplies not just intel, but *templates* the network can repurpose
 - **Relationships / allegiances**:
+	- Shadow Walker ↔ steals court futures; feeds them to the common network
+	- Acalantha + Infinite Arhat + Cinderbound ↔ convert propaganda into practice (memetic + logistical)
+	- Soul Society/Compact ↔ depend on centralized ritual authority; vulnerable to template theft
 
 ## Scene 1
 
@@ -23,6 +33,26 @@ Fronts were where courts wanted you.
 If you fought where the banners were, you taught the banners that you accepted their stage.
 
 Lin Shun moved in the tunnels behind the palace with a coil of wire and a mouth full of silence.
+
+Under his inner robe, a narrow packet rode flat against his ribs.
+
+Not a weapon.
+
+A teaching scroll.
+
+Hellborne had started calling these packets “blueprints” the way smiths did—because they weren’t scripture.
+
+They were instructions that could survive being shared.
+
+Breath patterns.
+
+Ward diagrams.
+
+Stamp layouts.
+
+Clinic routines.
+
+Small, modular techniques that let a thousand ordinary hands do one extraordinary thing.
 
 Ahead, two wardens spoke in low tones.
 
@@ -65,6 +95,12 @@ Lin Shun’s hands stayed steady.
 He did not steal gold.
 
 He stole futures.
+
+And he stole them the way Hellborne had learned to steal everything that mattered:
+
+as a pattern.
+
+As a blueprint you could reproduce without permission.
 
 ## Scene 2
 
@@ -122,6 +158,16 @@ So was Monk Zhen.
 
 So was a Cinderbound elder with soot-streaked knuckles.
 
+On the wall behind them, someone had nailed a slate with three columns—new Hellborne habit:
+
+**Method**
+
+**Material**
+
+**Mass Use**
+
+If a technique couldn’t be taught, supplied, and repeated, it didn’t count as victory.
+
 Lin Shun placed the stolen drafts on the table.
 
 “They were going to make questions feel sinful,” he said.
@@ -150,6 +196,16 @@ Not rewriting the rite into rebellion.
 
 Rewriting it into a mirror.
 
+They treated the stolen rite the way the forge treated enemy steel:
+
+temper it.
+
+Regrind it.
+
+Etch it with a new purpose.
+
+Then publish the steps so the next Floor can do it faster.
+
 A rite that sounded familiar enough to pass guard ears.
 
 A rite that ended with a question that could not be outlawed without making the outlaw obvious.
@@ -176,11 +232,16 @@ The nobles had lost the crown rite.
 
 Soul Society would respond with force.
 
+Force was the court’s favorite shortcut.
+
+But Hellborne was building an economy of long work—blueprints, tools, Floors of training—where even non-combat craft sharpened the edge of resistance.
+
 But force was clumsy.
 
 And clumsy tools broke when you made them swing at shadows.
 
 ## Notes
 - Shadow Walker’s “defeat” is preemption: steals the next escalation before it spreads.
-- Hellborne synergy: flips propaganda drafts into a counter-rite that survives censorship.
-- Soul Society disadvantage: reliance on public rituals makes them vulnerable to infiltration.
+- Hellborne synergy: flips propaganda drafts into a counter-rite that survives censorship, then turns it into a reproducible blueprint.
+- Sects diversify: ritual work, education, and mass-technique design become as important as fighting.
+- Soul Society disadvantage: reliance on centralized rituals makes them vulnerable to infiltration and template theft.
