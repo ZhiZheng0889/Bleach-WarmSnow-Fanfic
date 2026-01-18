@@ -1,5 +1,8 @@
 # Chapter — The Corridor Learns (Death Stage 06)
 
+[← Previous](00-transition-1.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:

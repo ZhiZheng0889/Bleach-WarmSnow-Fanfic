@@ -1,5 +1,8 @@
 # Chapter — When Maps Lie (Death Stage 06)
 
+[Next →](01-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
