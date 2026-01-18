@@ -6,9 +6,20 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Vice-Leader Yan (Seven Sword Shura)
+	- Soul Society lieutenant (unnamed; checkpoint overseer)
+	- Checkpoint clerk (unnamed)
+	- Hellborne smith (unnamed)
 - **Returning**:
+	- Hellborne network (couriers/runners; implied)
 - **Changes (status / power / gear / role)**:
+	- Seven Sword Shura pivots from “combat sect” to anti-procedure specialization: breaking hinges, not bodies
+	- Hellborne’s industrial spellcraft expands: forged seals/counter-writs become standardized infrastructure (tech feeding legitimacy, legitimacy feeding combat)
+	- Early Soul Society enforcement adapts: avoids optics, prefers classification and quiet removal
 - **Relationships / allegiances**:
+	- Seven Sword Shura ↔ protects mutual-aid governance by disrupting coercive systems
+	- Hellborne smiths ↔ supply sects with tools (stamps, plates, wards) scaled for mass use
+	- Soul Society ↔ backs Compact control, treating rival legality as infection
 
 ## Scene 1
 
@@ -60,6 +71,14 @@ But forged.
 
 Not written.
 
+The plates carried shallow channels—tiny rune-grooves—made to hold ink without blotting.
+
+Cheap.
+
+Repeatable.
+
+The kind of “technology” that didn’t look like progress until it changed what a crowd could do.
+
 “Counter-writs,” the smith said.
 
 Yan stared.
@@ -69,6 +88,12 @@ Yan stared.
 The smith shrugged.
 
 “Laws are just shapes people agree to fear,” he replied.
+
+“And if a shape can be written,” the smith added, “it can be stamped.
+
+If it can be stamped, it can be shared.
+
+If it can be shared, it stops belonging to a throne.”
 
 Yan exhaled.
 
@@ -186,6 +211,14 @@ A fight here would be visible.
 
 Visibility was dangerous when the institution was already losing the story.
 
+And the story was already breaking into Floors.
+
+Not floors of marble and noble seating.
+
+Floors of capability—who could hold a line, who could teach a method, who could keep a clinic running under raid.
+
+The lieutenant could feel a rival order forming that did not need his permission.
+
 He ordered retreat.
 
 Yan watched them pull away.
@@ -208,6 +241,14 @@ For stamps.
 
 A new kind of weapon: legitimacy you could hold.
 
+The Hellborne didn’t call it a weapon.
+
+They called it a tool.
+
+Tools were supposed to serve everyone.
+
+That was the point.
+
 The smith laid plates out to cool.
 
 Each stamped with the same phrase in crude characters:
@@ -222,5 +263,6 @@ The Hellborne were going to defeat it by industrializing the right to refuse.
 
 ## Notes
 - Seven Sword Shura’s role: targeted violence against procedure, not people.
-- Hellborne advantage: legitimacy tools (stamps, plates) become manufacturable.
-- Soul Society loses control: retreats to avoid visible repression, conceding street authority.
+- Hellborne advantage: legitimacy tools (stamps, plates) become manufacturable; low-tech spellcraft scales faster than court decrees.
+- Sects become versatile: combat skill supports logistics/governance, and logistics/governance feeds combat effectiveness.
+- Soul Society adapts: retreats to avoid visible repression, shifting toward classification and quieter suppression.
