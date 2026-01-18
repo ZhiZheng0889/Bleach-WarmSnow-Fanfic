@@ -6,9 +6,20 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Madam Lian (Carousing Acalantha host)
+	- Hellborne “Chalksmith” (propagandist / wall-writer)
+	- Soul Society censor (unnamed)
+	- Marble Compact priest (unnamed)
+	- Court clerk (unnamed)
 - **Returning**:
+	- Hellborne courier (unnamed)
 - **Changes (status / power / gear / role)**:
+	- Hellborne begins formalizing **Floors** (cultivation tiers) to manage real inequality in souls’ capacity—kept non-hereditary to preserve the communist core
+	- Soul Society escalates from observation into cultural suppression; “stability” becomes permission for cruelty
 - **Relationships / allegiances**:
+	- Carousing Acalantha ↔ undermines Marble Compact propaganda via humor/ritual parody
+	- Hellborne ↔ supports counter-rites and distribution governance; ally of anti-Compact movements
+	- Soul Society ↔ treats rival meaning-making as contagion
 
 ## Scene 1
 
@@ -35,6 +46,22 @@ Not because the city was peaceful.
 Because fear made people thirsty.
 
 A Hellborne courier sat in the corner, hood low.
+
+The hood wasn’t for secrecy alone.
+
+It was etiquette.
+
+Hellborne had started using new words for old truths, and one of those truths was uncomfortable:
+
+not every soul was equal.
+
+Not in talent.
+
+Not in endurance.
+
+Not in how easily a person could take in heat, refine it, and come out sharper.
+
+So they built Floors—tiers you climbed by practice and proof, not by blood—so strength could be measured without becoming nobility.
 
 Across from him sat a young court clerk—one of the ones who still flinched when he stamped a seal.
 
@@ -162,6 +189,11 @@ Instructions.
 - If a guard says names bind, ask him whose name never appears.
 - If a seal promises food, ask why food needs permission.
 
+And, written smaller—because small things survived longer:
+
+- If a Hellborne says “we are equal,” ask him which Floor he’s climbed.
+- If he answers with pride, remind him: Floors are for duty, not worship.
+
 He signed it with a crude Acalantha bloom.
 
 A symbol for drunkenness.
@@ -241,6 +273,22 @@ He did not see people.
 He saw a system trying to be born.
 
 And he decided it would be strangled before it learned to speak.
+
+Soul Society was not yet a polished Seireitei with rules you could pretend were clean.
+
+It was an apparatus learning its favorite tool.
+
+Not persuasion.
+
+Not mercy.
+
+Classification.
+
+Name the joke a contagion.
+
+Name the singer a saboteur.
+
+And then send the rough first generation of “reapers” to harvest the problem until the streets learned to be quiet again.
 
 ## Notes
 - Carousing Acalantha’s role: weaponizes social space and humor to break propaganda.

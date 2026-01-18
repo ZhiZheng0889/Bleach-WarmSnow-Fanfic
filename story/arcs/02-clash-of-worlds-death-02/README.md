@@ -8,6 +8,10 @@ This stage continues the clash between **Order** (White Side) and **Forge** (Bla
 - **Black Side (Forge)**: stability through mutual-aid logistics, guild discipline, and visible hunger.
 - **The seam** remains the quiet third actor: it rewards denial until it punishes it.
 
+## Key Terms (quick reference)
+
+- **Floors (Hellborne)**: cultivation-style tiers for capability/responsibility. Floors are **earned, non-hereditary**, and treated as duty assignments (to preserve the communist core while acknowledging real power gaps).
+
 ## Reading Order
 
 - [01-chapter-1.md](01-chapter-1.md)
