@@ -6,9 +6,18 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Soul Society scout (unnamed; field observer)
 - **Returning**:
+	- Ren
+	- The seam / corridor
+	- Soul Society enforcement apparatus (proto–reaper cadres)
 - **Changes (status / power / gear / role)**:
+	- Ren formalizes “door rules” as self-governance to resist faction claims
+	- Soul Society begins classification: frames Ren as a “key” (a controllable interface to the anomaly)
+	- Surveillance becomes explicit and mobile beyond the city
 - **Relationships / allegiances**:
+	- Ren ↔ factions: refuses both uniforms and crowns; tries to prevent mercy becoming exploitation
+	- Scout ↔ institution: treats personhood as an obstacle to categorization
 
 ## Scene 1
 
@@ -114,6 +123,12 @@ Ren added the hardest rule.
 
 “And I will not open it for desperation alone.”
 
+He paused, then forced the thought into something harder than feeling.
+
+Rule.
+
+Procedure.
+
 Because desperation was endless.
 
 Because if he became a mercy machine, he would be used until he broke.
@@ -184,6 +199,8 @@ Sometimes watchers looked like rumors.
 
 Sometimes watchers looked like calm.
 
+Sometimes watchers looked like a bird that circled only until someone noticed.
+
 Ren stood.
 
 He walked down the hill not quickly, not slowly.
@@ -222,6 +239,8 @@ The scout had been trained to treat anomalies as problems to be categorized.
 
 Categorization made action possible.
 
+Categorization also made cruelty efficient.
+
 But the anomaly on the road below did not move like a monster.
 
 He moved like a person trying not to be turned into a story.
@@ -248,3 +267,4 @@ A door.
 
 - Continuity: Deepens Ren’s personal “door rules,” and confirms surveillance pressure building.
 - Foreshadowing: “Keys” becomes a contested category—who counts, who controls, who gets protected.
+- Escalation vector: Soul Society moves from sweeps to search—field observers, reports, then registrars.
