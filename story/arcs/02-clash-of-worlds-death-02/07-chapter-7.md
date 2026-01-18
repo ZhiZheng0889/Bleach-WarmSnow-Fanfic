@@ -6,9 +6,21 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Hua Rin (Soul Blade Shura)
+	- Marble Compact ritualist (unnamed)
+	- Soul Society captain (unnamed)
+	- Noble liaison (unnamed)
+	- Hellborne smith (unnamed)
 - **Returning**:
+	- Soul Society enforcement apparatus (proto–reaper cadres)
 - **Changes (status / power / gear / role)**:
+	- Soul Blade Shura reframes power: anti-binding technique becomes a transferable method (not a Warm Snow “gift”)
+	- Hellborne supports sect technique with blueprint-scroll pedagogy and simple toolcraft
+	- Soul Society escalates: when names fail, it shifts to mass sweeps and later sorting
 - **Relationships / allegiances**:
+	- Soul Blade Shura ↔ protects the unregistered by breaking legibility
+	- Hellborne ↔ provides tools/training; treats technique as common infrastructure across Floors
+	- Soul Society ↔ preserves monopoly on classification by any means necessary
 
 ## Scene 1
 
@@ -50,6 +62,18 @@ Warm snow hissed when it touched.
 
 A Hellborne smith stood behind her, quiet.
 
+He wasn’t here as a bodyguard.
+
+He was here as a witness, and as a craftsman.
+
+The Hellborne had begun turning techniques into blueprints—short manuals you could teach, copy, and hand down from one Floor to the next.
+
+Not scripture.
+
+Not lineage.
+
+Method.
+
 “You’re sure?” he asked.
 
 Hua Rin’s eyes stayed on the blade.
@@ -69,6 +93,12 @@ Not flesh.
 Air.
 
 The cut made a sound like paper tearing.
+
+The smith felt the pressure change and quietly marked it on a strip of paper—angle, breath, timing.
+
+Not to claim it.
+
+To reproduce it.
 
 A pressure in the room released.
 
@@ -134,6 +164,14 @@ Then he whispered the truth he did not want to admit:
 
 “They learned how to cut the handle.”
 
+And that meant the enemy was no longer a handful of anomalies.
+
+It was a system.
+
+Teach one person to sever a binding and the court could call it a fluke.
+
+Teach a Floor, publish the steps, and it became a contagion of competence.
+
 ## Scene 3
 
 - **POV**: Soul Society captain
@@ -194,6 +232,14 @@ The captain nodded.
 
 So we make their victory too costly to attempt.”
 
+He did not call it evil.
+
+He called it stabilization.
+
+That was how the proto–reaper cadres were being born: not as heroes in clean uniforms, but as an institution’s answer to embarrassment.
+
+If you couldn’t bind a person, you bound a district.
+
 He stood.
 
 “Prepare the sweep.”
@@ -205,4 +251,4 @@ Inside, an institution decided the difference between law and massacre was only 
 ## Notes
 - Soul Blade Shura’s “defeat” is technical: breaks the Name-Eater by severing name-legibility.
 - Consequence: Soul Society escalates from targeted binding to area sweeps, exposing authoritarian nature.
-- Hellborne advantage: forces the enemy to choose between losing control and revealing cruelty.
+- Hellborne advantage: turns anti-binding into a teachable blueprint across Floors, forcing the enemy to choose between losing control and revealing cruelty.
