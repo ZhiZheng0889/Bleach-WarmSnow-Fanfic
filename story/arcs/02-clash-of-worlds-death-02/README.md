@@ -11,6 +11,7 @@ This stage continues the clash between **Order** (White Side) and **Forge** (Bla
 ## Key Terms (quick reference)
 
 - **Floors (Hellborne)**: cultivation-style tiers for capability/responsibility. Floors are **earned, non-hereditary**, and treated as duty assignments (to preserve the communist core while acknowledging real power gaps).
+- **Hellborne tech/spellcraft**: mass-produced charms, simple devices, and versatile techniques (often non-combat) developed as shared infrastructure; improvements feed back into combat via survivability, endurance, and coordination.
 
 ## Reading Order
 

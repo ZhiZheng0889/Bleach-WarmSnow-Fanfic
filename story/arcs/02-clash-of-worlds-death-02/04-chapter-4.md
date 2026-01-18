@@ -6,9 +6,18 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Physician Mei (Mother Trinity field healer)
+	- Soul Society enforcer (unnamed)
+	- Bridge-curfew guard (unnamed)
 - **Returning**:
+	- Hellborne courier (unnamed)
 - **Changes (status / power / gear / role)**:
+	- Hellborne’s non-combat research accelerates: clinic talismans, portable seals, and logistics tools become standard—then feed back into combat survivability
+	- Soul Society enforcement hardens: “stability” becomes a pretext for coercion, raids, and forced registration
 - **Relationships / allegiances**:
+	- Mother Trinity ↔ unconditional care network (anti-registry)
+	- Hellborne couriers ↔ keep clinics supplied; act as connective tissue between sect roles
+	- Soul Society ↔ attempts to monopolize classification and coerce healers into compliance
 
 ## Scene 1
 
@@ -39,6 +48,14 @@ His eyes kept flicking to the child.
 Mei did not answer.
 
 She ground herbs, pressed them into a paste, and placed it under the child’s tongue.
+
+Under her sleeve, a thin copper ring warmed.
+
+Not jewelry.
+
+A cheap condenser—Hellborne work—etched with tiny runes that made heat behave.
+
+It kept the paste at the right temperature long enough to matter.
 
 The cough eased.
 
@@ -114,6 +131,14 @@ A hand opened.
 
 Physician Mei took the satchel without asking his name.
 
+The satchel wasn’t just cloth.
+
+Inside the lining were stitched paper-thin ward strips—mass-produced charms cut from a single long roll, like labels.
+
+Not for killing.
+
+For preserving.
+
 “Where’s the next?” she asked.
 
 The courier gave her an address.
@@ -133,6 +158,16 @@ No registry.
 No mark.
 
 Care first.”
+
+The courier glanced at the ward strips.
+
+“Your charms are getting better,” he said.
+
+Mei’s mouth twitched.
+
+“Our tools are getting shared,” she corrected.
+
+“A thousand hands iterating a cure beats one genius guarding a secret.”
 
 The courier swallowed.
 
@@ -218,13 +253,26 @@ But the network was already moving medicine without him.
 
 He signaled retreat.
 
+Not because he was merciful.
+
+Because the proto–reaper doctrine was pragmatic: cut what you can, label the rest, come back with a bigger knife.
+
 Mei was dragged away.
 
 But that night, three new clinics opened.
+
+And the week after that, the courier routes changed.
+
+The same ward strips that kept fever down got repurposed into field bandages.
+
+The same condensers that warmed paste got mounted onto grips to keep hands from numbing in cursed snow.
+
+Non-combat work, feeding combat power like a bellows feeds a forge.
 
 Because care spreads when it is not owned.
 
 ## Notes
 - Mother Trinity’s “defeat” is moral and logistical: removes the court’s monopoly on survival.
-- Hellborne integration: couriers + counter-seal routes make unconditional care scalable.
+- Hellborne integration: couriers + counter-seal routes make unconditional care scalable; shared tools iterate fast.
+- Tech/spell feedback loop: preservation charms and clinic devices become field gear, raising survivability and combat endurance.
 - Soul Society fails to coerce: punishment creates more nodes instead of compliance.
