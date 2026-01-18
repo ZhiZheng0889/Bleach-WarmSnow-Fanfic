@@ -6,9 +6,20 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Council laborer (unnamed; scarred hands)
+	- Council idealist (unnamed)
+	- Council clerk (unnamed)
 - **Returning**:
+	- Master Jian (Cloud-Splitting)
+	- Ren
+	- The seam / corridor (as pressure)
 - **Changes (status / power / gear / role)**:
+	- The battleground shifts to administration: lists, stamps, permits, and who becomes a gate
+	- Hellborne governance ethos clarified: rotation + transparency + refusal as anti-throne design (Floors as duty, not privilege)
+	- Ren steps closer to public governance to prevent the door from being bureaucratized into ownership
 - **Relationships / allegiances**:
+	- Master Jian ↔ council: tries to prevent “competence” from hardening into permanent authority
+	- Ren ↔ council: offers consent-based participation while refusing to become a living gate
 
 ## Scene 1
 
@@ -69,6 +80,12 @@ Stamps.
 Rules.
 
 Paper walls.
+
+Somewhere beyond the city, Soul Society was learning the same lesson.
+
+Steel intimidated.
+
+Paper endured.
 
 Master Jian remembered the basin and how quickly stone became a center.
 
@@ -168,6 +185,8 @@ Both decided who passed.
 
 Both pretended they were neutral.
 
+Neutral was just a word people used when they didn’t want to name who benefited.
+
 Ren had spent days trying not to become a gate.
 
 But gates were going to be built anyway.
@@ -224,3 +243,4 @@ Master Jian’s mouth twitched.
 
 - Continuity: Shifts focus from overthrow to governance; bureaucracy becomes a battlefield.
 - Foreshadowing: Control of access (paper, permits, doors) becomes the core conflict.
+- Pressure: Soul Society’s next move is administration at scale—registrars, categories, stamps that justify force.
