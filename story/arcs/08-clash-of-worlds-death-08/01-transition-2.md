@@ -1,5 +1,8 @@
 # Chapter — The Corridor’s Hunger (Death Stage 08)
 
+[← Previous](00-transition-1.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:

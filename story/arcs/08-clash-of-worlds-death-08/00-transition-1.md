@@ -1,5 +1,8 @@
 # Chapter — A Door for the Dead (Death Stage 08)
 
+[Next →](01-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
