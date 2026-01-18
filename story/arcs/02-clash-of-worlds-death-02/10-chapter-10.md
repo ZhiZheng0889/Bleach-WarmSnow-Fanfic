@@ -6,9 +6,22 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Master Jian (Cloud-Splitting)
+	- Hellborne First Smith (unseen presence; role/duty)
+	- Crowd woman with counter-seal (unnamed)
 - **Returning**:
+	- Lady Gao Yue (Marble Compact)
+	- Soul Society captain (proto–reaper enforcer)
+	- Hellborne mutual-aid logistics (routes, lantern signals, clinics)
+	- Counter-seals (public, shared legitimacy)
 - **Changes (status / power / gear / role)**:
+	- The White Court’s center breaks: basin + steps collapse, making “holy order” physically unstageable
+	- Hellborne method revealed: mundane leverage backed by repeatable practice (survey marks, wedges, timing) rather than one-off spectacle
+	- Soul Society adapts: retreats under witnesses, then shifts toward heavier units and registrars/stamps to regain legibility
 - **Relationships / allegiances**:
+	- Cloud-Splitting ↔ crowd: protects people by denying the institution a stage
+	- Hellborne ↔ Ten Sects: complementary roles (logistics + technique) culminate in public collapse
+	- Soul Society ↔ Marble Compact: temporary shared stage fractures under pressure
 
 ## Scene 1
 
@@ -136,6 +149,12 @@ Not with magic.
 
 With leverage.
 
+Someone had already chalked the load-lines.
+
+Someone had already counted the timing between patrol circuits.
+
+Someone had already written the steps on a cheap strip of paper so any Floor could repeat them.
+
 Bitter River had opened gates.
 
 Seven Sword had shattered procedure.
@@ -161,6 +180,12 @@ Make the court fall.
 A hidden brace loosened.
 
 Then another.
+
+Wedges bit.
+
+Resin cracked.
+
+Stone remembered it was only stone.
 
 The basin’s marble lip cracked.
 
@@ -266,9 +291,21 @@ Too many.
 
 Too awake.
 
+Too organized.
+
+It was one thing to punish a handful of “bandits.”
+
+It was another to punish a street that could count and record and repeat what it saw.
+
 He signaled retreat.
 
 He would return later with larger units.
+
+With registrars.
+
+With stamps.
+
+With the kind of violence that came with paperwork.
 
 But later was a luxury.
 
@@ -304,5 +341,6 @@ Because the Hellborne and the Ten Sects made the old one impossible to maintain.
 
 ## Notes
 - Resolution: Nobles lose the stage (symbols + infrastructure); Soul Society retreats to avoid witnessed oppression.
+- Hellborne underpinning: survey + wedges + timing make collapse repeatable (a blueprint-method), not a miracle.
 - Each sect’s contribution culminates in a public, undeniable collapse of “holy order.”
 - Setup for next arc: the question becomes what replaces the fallen court—without recreating it.
