@@ -1,5 +1,8 @@
 # Chapter 11 — After the Basin
 
+[← Previous](10-chapter-10.md) | [Next →](12-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:

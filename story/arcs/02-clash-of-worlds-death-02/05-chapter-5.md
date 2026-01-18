@@ -1,5 +1,15 @@
 # Chapter 5 — Seven Sword Shura Cuts the Contract
 
+[← Previous](04-chapter-4.md) | [Next →](06-chapter-6.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Vice-Leader Yan (Seven Sword Shura)

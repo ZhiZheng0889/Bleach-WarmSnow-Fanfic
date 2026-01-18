@@ -1,5 +1,15 @@
 # Chapter 9 — Wheels of Solar and Lunar Turns the Court
 
+[← Previous](08-chapter-8.md) | [Next →](10-chapter-10.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Sun-Lunar envoy (masked)

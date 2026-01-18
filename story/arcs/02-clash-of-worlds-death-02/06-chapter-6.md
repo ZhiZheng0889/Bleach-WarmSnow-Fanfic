@@ -1,5 +1,15 @@
 # Chapter 6 — Shadow Walker Steals the Crown Rite
 
+[← Previous](05-chapter-5.md) | [Next →](07-chapter-7.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lin Shun (Shadow Walker infiltrator)

@@ -1,5 +1,15 @@
 # Chapter 2 — Carousing Acalantha Pours the Lie
 
+[← Previous](01-chapter-1.md) | [Next →](03-chapter-3.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Madam Lian (Carousing Acalantha host)

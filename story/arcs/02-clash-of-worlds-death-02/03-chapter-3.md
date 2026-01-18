@@ -1,5 +1,15 @@
 # Chapter 3 — Infinite Arhat Counts the Counters
 
+[← Previous](02-chapter-2.md) | [Next →](04-chapter-4.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Monk Zhen (Infinite Arhat strategist)

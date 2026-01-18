@@ -1,5 +1,15 @@
 # Chapter 10 — Cloud-Splitting Ends the White Court
 
+[← Previous](09-chapter-9.md) | [Next →](11-transition-1.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Master Jian (Cloud-Splitting)

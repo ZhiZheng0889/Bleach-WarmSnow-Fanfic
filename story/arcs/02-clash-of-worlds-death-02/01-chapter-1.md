@@ -1,5 +1,15 @@
 # Chapter 1 — Bitter River Breaks the Dam
 
+[Next →](02-chapter-2.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Nian He (Bitter River Bodhi vice leader)

@@ -1,5 +1,8 @@
 # Chapter 12 — A Ledger of Names
 
+[← Previous](11-transition-1.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:

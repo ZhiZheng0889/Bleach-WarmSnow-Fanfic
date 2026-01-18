@@ -1,5 +1,15 @@
 # Chapter 4 — Mother Trinity Refuses the Register
 
+[← Previous](03-chapter-3.md) | [Next →](05-chapter-5.md)
+
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Physician Mei (Mother Trinity field healer)
