@@ -6,9 +6,18 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Clinic accountant (civilian; ledger-keeper)
 - **Returning**:
+	- Master Jian (Cloud-Splitting)
+	- Clinic workers / healers (Hellborne-aligned mutual-aid infrastructure)
+	- Ren (rumored “door-walker” / anomaly)
 - **Changes (status / power / gear / role)**:
+	- The conflict pivots into administration: the ledger becomes a battlefield over what is counted, who is named, and who gets to vanish
+	- “Lost between” escalates from rumor to pattern: a structural wound tied to seams/thresholds
+	- Hellborne method continues: shared templates and honest counting as anti-tyranny infrastructure
 - **Relationships / allegiances**:
+	- Accountant ↔ clinic: serves survival first; resists turning care into policing
+	- Master Jian ↔ ledger: recognizes counting as the next front line
 
 ## Scene 1
 
@@ -39,6 +48,10 @@ Afraid of mistakes.
 He had learned that death was not only bodies.
 
 Death was also paperwork.
+
+Not the kind that healed.
+
+The kind that decided who was allowed to exist on paper.
 
 Death was also the moment a mother stopped asking at the door.
 
@@ -87,6 +100,14 @@ Names.
 Last Seen.
 
 Notes.
+
+It was not a noble registry.
+
+No crests.
+
+No seals of permission.
+
+Just a shared template the clinic had copied from hand to hand, because one candlelit desk could become a hundred.
 
 He wrote the first name.
 
@@ -160,6 +181,8 @@ If “lost between” had been appearing for years, then the city had an old wou
 
 And someone had been stepping into it.
 
+Or being taken.
+
 ## Scene 2
 
 - **POV**: Master Jian (Cloud-Splitting)
@@ -226,6 +249,14 @@ Of thresholds.
 
 Of stories where the world had edges.
 
+He thought of courts, too.
+
+How they loved names.
+
+How they loved lists.
+
+How quickly a ledger could become a net if the wrong hands owned it.
+
 Master Jian’s fingers tapped the page.
 
 “Find me anyone who came back,” he said.
@@ -268,3 +299,4 @@ He looked back.
 
 - Continuity: Moves from revolution into administration (ledger/clinic) and makes “between worlds” a concrete ongoing problem.
 - Foreshadowing: The missing connect directly into Death Stage 03’s inciting incidents.
+- Threat vector: whoever controls names and ledgers controls the story of the dead; Hellborne answers with shared, auditable counting.
