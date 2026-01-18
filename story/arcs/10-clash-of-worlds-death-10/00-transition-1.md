@@ -1,5 +1,8 @@
 # Chapter — Three Worlds, One Scar (Death Stage 10)
 
+[Next →](01-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:

@@ -1,5 +1,8 @@
 # Chapter — The Last Door (Death Stage 10)
 
+[← Previous](00-transition-1.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
