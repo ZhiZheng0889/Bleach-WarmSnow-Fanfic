@@ -43,7 +43,7 @@ function Ensure-NavAndCharacters {
 
     $lines = $content -split "`r?`n", -1
 
-    # Insert navigation line immediately after the H1 title, unless already present.
+    # Insert navigation line right after the H1 title (allowing blank lines), unless already present.
     $h1Index = ($lines | Select-String -Pattern "^# " -List).LineNumber
     if ($null -eq $h1Index) {
         Write-Warning "Skipping (can't locate H1): $FilePath"
@@ -52,8 +52,12 @@ function Ensure-NavAndCharacters {
     $h1Index = $h1Index - 1
 
     $alreadyHasNav = $false
-    if ($h1Index + 1 -lt $lines.Length) {
-        $alreadyHasNav = ($lines[$h1Index + 1] -match "\[← Previous\]" -or $lines[$h1Index + 1] -match "\[Next →\]")
+    $scanIndex = $h1Index + 1
+    while ($scanIndex -lt $lines.Length -and $lines[$scanIndex].Trim() -eq "") {
+        $scanIndex++
+    }
+    if ($scanIndex -lt $lines.Length) {
+        $alreadyHasNav = ($lines[$scanIndex] -match "\[← Previous\]" -or $lines[$scanIndex] -match "\[Next →\]")
     }
 
     if (-not $alreadyHasNav -and $null -ne $NavLine) {
@@ -61,6 +65,7 @@ function Ensure-NavAndCharacters {
         $newLines += $lines[0..$h1Index]
         $newLines += ""
         $newLines += $NavLine
+        $newLines += ""
         $newLines += $lines[($h1Index + 1)..($lines.Length - 1)]
         $lines = $newLines
     }
@@ -98,10 +103,17 @@ function Ensure-NavAndCharacters {
 }
 
 $arcFullPath = Resolve-Path -LiteralPath $ArcDir
-$files = Get-ChildItem -LiteralPath $arcFullPath -Filter "*.md" | Sort-Object Name | Select-Object -ExpandProperty Name
+
+# Only operate on chapter-like files (e.g. 00-prologue.md, 01-chapter-1.md, 42-transition-1.md).
+# This intentionally skips arc-level README files.
+$files = Get-ChildItem -LiteralPath $arcFullPath -Filter "*.md" |
+    Where-Object { $_.Name -match '^\d{2}-' } |
+    Sort-Object Name |
+    Select-Object -ExpandProperty Name
 
 if ($files.Count -eq 0) {
-    throw "No .md files found under $arcFullPath"
+    Write-Host "No chapter files found under $arcFullPath (skipping)."
+    exit 0
 }
 
 for ($i = 0; $i -lt $files.Length; $i++) {
