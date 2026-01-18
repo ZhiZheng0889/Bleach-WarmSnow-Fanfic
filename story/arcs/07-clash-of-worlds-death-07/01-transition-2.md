@@ -1,5 +1,8 @@
 # Chapter — Saboteurs of Mercy (Death Stage 07)
 
+[← Previous](00-transition-1.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
