@@ -6,9 +6,22 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Ren (rumored “door-walker” / anomaly)
+	- Hellborne cook (unnamed)
+	- Hellborne runner (unnamed; same runner-network role as prior chapters)
 - **Returning**:
+	- Master Jian (Cloud-Splitting)
+	- Lady Gao Yue (Marble Compact)
+	- Soul Society captain (proto–reaper enforcer)
+	- Crowd (now organized by lanes, counts, and clinics)
 - **Changes (status / power / gear / role)**:
+	- After the court’s visible collapse, the fight shifts from spectacle to governance: food, medicine, counting, and routes
+	- Hellborne logistics harden into “public procedure” (lanes, counts, counter-seals) that can be taught and repeated across Floors
+	- Soul Society’s threat becomes clearer: it will answer loss of stage with sweeps, sorting, and paperwork-backed violence
 - **Relationships / allegiances**:
+	- Master Jian ↔ crowd: holds the boundary against both mob violence and institutional enforcement
+	- Gao Yue ↔ Soul Society: shared stage fractures; each tries to claim “guidance” as ownership
+	- Ren ↔ civilians: chooses transparency through personhood, not conquest of the corridor
 
 ## Scene 1
 
@@ -130,6 +143,14 @@ He smiled without warmth.
 
 “They need food,” he said. “And medicine. And a way to count what was stolen.”
 
+He glanced at the counter-seals in hands across the square.
+
+Counting was not a slogan.
+
+It was infrastructure.
+
+Something you could teach, copy, and run even when the loudest voices were gone.
+
 Gao Yue’s smile tightened.
 
 Counting was dangerous.
@@ -210,6 +231,14 @@ Ren watched the captain on the steps, watched the noblewoman beside him, watched
 
 “Because if we leave now,” Ren said, “someone else will decide what we are.”
 
+And someone else would write it down.
+
+On a registry.
+
+On a warrant.
+
+On a stamp that turned a person into a category.
+
 He stepped forward—not into the center, but into the edge where conversations began.
 
 He did not announce the door.
@@ -222,3 +251,4 @@ If the door became real, it would be because someone trusted a person, not becau
 
 - Continuity: After the White Court “ending,” focus shifts to aftermath logistics and preventing a power vacuum from becoming blood.
 - Foreshadowing: The door remains a pressure point; secrecy vs transparency becomes a recurring choice.
+- Tone: governance becomes a contest of methods (counts, clinics, routes) versus methods (sweeps, sorting, stamps).
