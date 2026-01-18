@@ -1,5 +1,7 @@
 # Chapter 42 — A Door With No Handle
 
+[← Previous](41-chapter-41.md) | [Next →](43-transition-2.md)
+
 ## Characters
 
 - **Introduced / First appearance**:

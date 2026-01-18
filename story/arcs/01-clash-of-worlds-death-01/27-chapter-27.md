@@ -1,5 +1,14 @@
 # Chapter 27 — All Talk, No Steel
 
+[← Previous](26-chapter-26.md) | [Next →](28-chapter-28.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Captain Liang

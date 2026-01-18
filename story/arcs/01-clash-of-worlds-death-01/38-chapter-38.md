@@ -1,5 +1,14 @@
 # Chapter 38 — Two Armies, One Leak
 
+[← Previous](37-chapter-37.md) | [Next →](39-chapter-39.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

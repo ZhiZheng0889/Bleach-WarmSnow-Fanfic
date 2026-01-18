@@ -1,5 +1,14 @@
 # Chapter 1 — Build Mode: Two Blueprints
 
+[← Previous](00-prologue.md) | [Next →](02-chapter-2.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The Spirit King

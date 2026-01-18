@@ -1,5 +1,14 @@
 # Chapter 24 — The Lacquer Cart
 
+[← Previous](23-chapter-23.md) | [Next →](25-chapter-25.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Captain Liang

@@ -1,5 +1,14 @@
 # Chapter 35 — The Third Hand
 
+[← Previous](34-chapter-34.md) | [Next →](36-chapter-36.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Ren

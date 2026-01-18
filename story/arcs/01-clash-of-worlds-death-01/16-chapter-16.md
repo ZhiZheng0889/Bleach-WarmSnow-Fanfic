@@ -1,5 +1,14 @@
 # Chapter 16 — The Quiet Tongue Decree
 
+[← Previous](15-chapter-15.md) | [Next →](17-chapter-17.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Mother Trinity healer

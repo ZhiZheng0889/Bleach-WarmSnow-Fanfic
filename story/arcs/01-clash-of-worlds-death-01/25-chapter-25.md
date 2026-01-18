@@ -1,5 +1,14 @@
 # Chapter 25 — The City Learns Two Fires
 
+[← Previous](24-chapter-24.md) | [Next →](26-chapter-26.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The Furnace Matron

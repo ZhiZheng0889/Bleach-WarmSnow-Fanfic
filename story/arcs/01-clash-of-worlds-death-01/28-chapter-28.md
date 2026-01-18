@@ -1,5 +1,14 @@
 # Chapter 28 — The Gate Falls Inward
 
+[← Previous](27-chapter-27.md) | [Next →](29-chapter-29.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Captain Liang

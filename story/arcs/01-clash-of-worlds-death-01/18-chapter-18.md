@@ -1,5 +1,14 @@
 # Chapter 18 — Ash on the Road
 
+[← Previous](17-chapter-17.md) | [Next →](19-chapter-19.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Captain Liang

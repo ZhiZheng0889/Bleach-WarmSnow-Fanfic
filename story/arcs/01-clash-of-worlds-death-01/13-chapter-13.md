@@ -1,5 +1,14 @@
 # Chapter 13 — The Counter-Seal
 
+[← Previous](12-chapter-12.md) | [Next →](14-chapter-14.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The Spirit King

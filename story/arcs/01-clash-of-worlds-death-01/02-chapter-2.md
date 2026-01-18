@@ -1,5 +1,14 @@
 # Chapter 2 — The First Judgment
 
+[← Previous](01-chapter-1.md) | [Next →](03-chapter-3.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The Spirit King

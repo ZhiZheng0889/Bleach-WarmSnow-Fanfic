@@ -1,5 +1,14 @@
 # Chapter 33 — Names That Won’t Stay
 
+[← Previous](32-chapter-32.md) | [Next →](34-chapter-34.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Cinderbound marshal

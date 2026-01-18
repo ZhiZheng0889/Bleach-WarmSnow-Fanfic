@@ -1,5 +1,14 @@
 # Chapter 6 — The Rite of Clean Hands
 
+[← Previous](05-chapter-5.md) | [Next →](07-chapter-7.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A court ritualist (House priest)

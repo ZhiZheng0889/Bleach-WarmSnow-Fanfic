@@ -1,5 +1,14 @@
 # Chapter 26 — The Night of Small Mouths
 
+[← Previous](25-chapter-25.md) | [Next →](27-chapter-27.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Jian

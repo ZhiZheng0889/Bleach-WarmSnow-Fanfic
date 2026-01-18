@@ -1,5 +1,14 @@
 # Chapter 34 — The Court Tries to Bite
 
+[← Previous](33-chapter-33.md) | [Next →](35-chapter-35.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

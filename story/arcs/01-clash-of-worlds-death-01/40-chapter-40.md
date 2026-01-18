@@ -1,5 +1,14 @@
 # Chapter 40 — The Spirit King’s Geometry
 
+[← Previous](39-chapter-39.md) | [Next →](41-chapter-41.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The Spirit King

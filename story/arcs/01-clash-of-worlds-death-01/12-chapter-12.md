@@ -1,5 +1,14 @@
 # Chapter 12 — Petition for a Crown
 
+[← Previous](11-chapter-11.md) | [Next →](13-chapter-13.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

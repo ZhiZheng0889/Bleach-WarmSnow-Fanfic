@@ -1,5 +1,14 @@
 # Chapter 29 — Victory Has Logistics
 
+[← Previous](28-chapter-28.md) | [Next →](30-chapter-30.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Cinderbound quartermaster

@@ -1,5 +1,14 @@
 # Chapter 41 — Three Worlds, Three Lies
 
+[← Previous](40-chapter-40.md) | [Next →](42-transition-1.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Ren

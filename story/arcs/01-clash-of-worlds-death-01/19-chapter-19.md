@@ -1,5 +1,14 @@
 # Chapter 19 — The Furnace Turn
 
+[← Previous](18-chapter-18.md) | [Next →](20-chapter-20.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

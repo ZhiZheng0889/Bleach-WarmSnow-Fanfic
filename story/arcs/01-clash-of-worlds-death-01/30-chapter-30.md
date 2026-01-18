@@ -1,5 +1,14 @@
 # Chapter 30 — The White Court Is Not a Fortress
 
+[← Previous](29-chapter-29.md) | [Next →](31-chapter-31.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Cinderbound marshal

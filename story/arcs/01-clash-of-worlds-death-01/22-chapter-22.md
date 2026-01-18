@@ -1,5 +1,14 @@
 # Chapter 22 — The Council of Embers
 
+[← Previous](21-chapter-21.md) | [Next →](23-chapter-23.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Cinderbound marshal

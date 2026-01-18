@@ -1,5 +1,14 @@
 # Chapter 10 — The Night of Borrowed Ash
 
+[← Previous](09-chapter-9.md) | [Next →](11-chapter-11.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lord Qiao’s spymaster

@@ -1,5 +1,14 @@
 # Chapter 4 — The First Breach
 
+[← Previous](03-chapter-3.md) | [Next →](05-chapter-5.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The First Smith

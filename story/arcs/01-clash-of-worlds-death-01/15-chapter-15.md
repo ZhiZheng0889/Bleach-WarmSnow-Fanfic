@@ -1,5 +1,14 @@
 # Chapter 15 — The Audit of Questions
 
+[← Previous](14-chapter-14.md) | [Next →](16-chapter-16.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

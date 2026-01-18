@@ -1,5 +1,14 @@
 # Chapter 32 — The Audit Eats Its Own
 
+[← Previous](31-chapter-31.md) | [Next →](33-chapter-33.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

@@ -1,5 +1,14 @@
 # Chapter 14 — The Speech That Would Not Behave
 
+[← Previous](13-chapter-13.md) | [Next →](15-chapter-15.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A crowd-listener (unregistered laborer)

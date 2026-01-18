@@ -1,5 +1,14 @@
 # Chapter 23 — Inventory of Breath
 
+[← Previous](22-chapter-22.md) | [Next →](24-chapter-24.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Gao Yue

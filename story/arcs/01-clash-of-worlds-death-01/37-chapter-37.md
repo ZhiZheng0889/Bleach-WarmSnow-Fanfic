@@ -1,5 +1,14 @@
 # Chapter 37 — When Death Leaks
 
+[← Previous](36-chapter-36.md) | [Next →](38-chapter-38.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Ren

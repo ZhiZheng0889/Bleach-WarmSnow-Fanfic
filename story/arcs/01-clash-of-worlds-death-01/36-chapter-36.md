@@ -1,5 +1,14 @@
 # Chapter 36 — The Streak Breaks
 
+[← Previous](35-chapter-35.md) | [Next →](37-chapter-37.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Cinderbound marshal

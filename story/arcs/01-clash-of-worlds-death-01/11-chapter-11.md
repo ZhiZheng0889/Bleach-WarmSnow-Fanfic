@@ -1,5 +1,14 @@
 # Chapter 11 — The Scroll That Eats Names
 
+[← Previous](10-chapter-10.md) | [Next →](12-chapter-12.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The court ritualist

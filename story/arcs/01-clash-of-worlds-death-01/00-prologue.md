@@ -1,5 +1,14 @@
 # Prologue — When the Worlds Were Uncut
 
+[Next →](01-chapter-1.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: The First Smith (Hellborne founder)

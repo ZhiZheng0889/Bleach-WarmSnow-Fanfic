@@ -1,5 +1,14 @@
 # Chapter 5 — Nothing Special
 
+[← Previous](04-chapter-4.md) | [Next →](06-chapter-6.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A court noble (mid-rank)

@@ -1,5 +1,14 @@
 # Chapter 20 — Marble in Reverse
 
+[← Previous](19-chapter-19.md) | [Next →](21-chapter-21.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Captain Liang

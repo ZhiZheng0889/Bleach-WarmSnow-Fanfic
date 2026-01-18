@@ -1,5 +1,14 @@
 # Chapter 31 — Continuous Victory
 
+[← Previous](30-chapter-30.md) | [Next →](32-chapter-32.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: A Cinderbound marshal

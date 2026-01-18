@@ -1,5 +1,14 @@
 # Chapter 7 — The First Clash of Ten Sects
 
+[← Previous](06-chapter-6.md) | [Next →](08-chapter-8.md)
+
+## Characters
+
+- **Introduced / First appearance**:
+- **Returning**:
+- **Changes (status / power / gear / role)**:
+- **Relationships / allegiances**:
+
 ## Scene 1
 
 - **POV**: Lady Qiu Ren (Vice-Leader of the Cloud-Splitting Sect)

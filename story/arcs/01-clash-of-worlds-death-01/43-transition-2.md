@@ -1,5 +1,7 @@
 # Chapter 43 — The Cost of a Bridge
 
+[← Previous](42-transition-1.md) | [Next →](README.md)
+
 ## Characters
 
 - **Introduced / First appearance**:
