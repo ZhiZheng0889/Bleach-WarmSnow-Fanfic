@@ -6,9 +6,20 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Council organizer (civilian; depot lead)
+	- Clean-handed faction rep (unnamed; seal-holder)
+	- Ragged faction leader (unnamed)
 - **Returning**:
+	- Ren
+	- The seam / corridor
+	- Clinic/counter-seal/counting culture (from Stage 02)
 - **Changes (status / power / gear / role)**:
+	- Authority redefined: competence becomes claimable; the organizer resists capture by documenting behavior, not just inventory
+	- Legitimacy contest escalates: seals versus labor; public leverage forces factions to carry
+	- The seam’s toll becomes political: it pushes toward routine, repetition, and “necessity” (a new center)
 - **Relationships / allegiances**:
+	- Organizer ↔ factions: refuses to become a gate; forces “help” to become labor
+	- Ren ↔ seam: recognizes it wants inevitability, not just blood
 
 ## Scene 1
 
@@ -41,6 +52,8 @@ From competence.
 From exhaustion.
 
 From the fact that someone had to do it.
+
+And from the fact that once you did it, someone would try to own it.
 
 He tried to keep his voice calm.
 
@@ -103,6 +116,12 @@ He saw the trap.
 If the seal went on the crates, the seal would become the reason people ate.
 
 And then the seal-holder would decide who deserved food.
+
+The organizer thought of the clinic ledger.
+
+How counting could keep people alive.
+
+How counting could also become a net.
 
 Before the organizer could answer, the second faction pushed in.
 
@@ -198,6 +217,8 @@ Who lied.
 
 And who, when offered a stamp, had refused it.
 
+If paper was going to exist, it would be the kind that made liars nervous.
+
 ## Scene 2
 
 - **POV**: Ren
@@ -276,6 +297,8 @@ For routine.
 
 For a way to become inevitable.
 
+For a bureaucracy of its own.
+
 Ren lowered his hand.
 
 He stared into the dark.
@@ -298,3 +321,4 @@ And that arguing would have consequences.
 
 - Continuity: Shows order as contested labor and previews the seam escalating demands.
 - Foreshadowing: The seam’s toll becomes explicit and political; it will try to make itself “necessary.”
+- Theme: seals, ledgers, and doors all ask the same question—who gets to decide who passes.
