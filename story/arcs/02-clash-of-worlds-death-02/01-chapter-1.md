@@ -2,13 +2,22 @@
 
 [Next →](02-chapter-2.md)
 
-
 ## Characters
 
 - **Introduced / First appearance**:
+	- Marble Compact patrol captain (unnamed)
+	- Soul Society messenger (low-seated observer; unnamed)
+	- Soul Society senior officer (unnamed)
 - **Returning**:
+	- Nian He (Bitter River Bodhi vice leader)
+	- Hellborne runner/courier (unnamed)
 - **Changes (status / power / gear / role)**:
+	- Soul Society shifts from distant observer to enforcing actor; early “reaper” doctrine emerges (stabilization by suppression)
+	- Hellborne logistics becomes openly organized (distribution as governance), less pure survivalism and more Path/sect discipline
 - **Relationships / allegiances**:
+	- Nian He ↔ Bitter River Bodhi (anti-Compact resistance; communist-core mutual aid)
+	- Marble Compact ↔ noble Houses / registry bureaucracy
+	- Soul Society ↔ preparing to treat rival governance as heresy/instability
 
 ## Scene 1
 
@@ -33,6 +42,12 @@ The measured clink of registry seals.
 Administration had a rhythm. It was how you knew where to cut.
 
 A Hellborne runner crouched beside her—ash in the creases of his fingers, chain tattoos half-hidden under wrapped cloth.
+
+He carried himself differently than the refugees of the early furnace-days.
+
+Not hardened only by apocalypse.
+
+Hardened by practice.
 
 “The Compact’s patrols changed,” he whispered.
 
@@ -73,6 +88,14 @@ Nian He rose.
 We break it by feeding through it.
 
 And then—when they call it theft—we let the river answer.”
+
+Once, that kind of plan would’ve sounded like scavengers gambling with fire.
+
+Now it sounded like a doctrine.
+
+Paths, training yards, shared stores—cultivation with the old forge logic still underneath:
+
+no one eats alone, and no one gets to turn hunger into a throne.
 
 ## Scene 2
 
@@ -204,6 +227,10 @@ It was proof.
 
 The messenger wore the uniform of an institution that believed it had already won history.
 
+It was not the neat black of a modern Seireitei.
+
+It was rough cloth, practical wraps, and a badge-seal pressed where a name should be—an early attempt to make a person into an office.
+
 He had been sent to catalogue instability.
 
 To name it.
@@ -248,13 +275,25 @@ The messenger looked back.
 
 The officer’s eyes were calm.
 
-Calm like a blade in its sheath.
+Calm like a blade that had decided it was righteous.
 
 “Write this,” the officer continued. “Write that the river is being weaponized.
 
 Write that the realm requires stabilization.
 
 Write that the Soul Society cannot permit a rival court to be born from hunger.”
+
+He did not say “negotiation.”
+
+He did not say “aid.”
+
+He said what the new institution was learning to say, more easily every day:
+
+*purge.*
+
+Not because the officers enjoyed cruelty—though some did.
+
+Because the system was being trained into something ruthless: a proto–Soul Reaper order that cut problems until the ledger looked clean.
 
 The messenger swallowed.
 
