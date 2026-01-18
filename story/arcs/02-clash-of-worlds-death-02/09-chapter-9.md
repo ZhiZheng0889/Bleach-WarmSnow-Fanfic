@@ -6,9 +6,21 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Sun-Lunar envoy (masked; posing as a clerk)
+	- Lord Qiao (Marble Compact noble)
+	- Soul Society liaison (unnamed)
+	- Hellborne runner (unnamed)
 - **Returning**:
+	- Lady Gao Yue (Marble Compact)
+	- Soul Society enforcement apparatus (proto–reaper cadres)
+	- Hellborne mutual-aid logistics network
 - **Changes (status / power / gear / role)**:
+	- Wheels of Solar and Lunar reframed as method: a dialectic wedge that can be taught, copied, and deployed (not a one-off “gift”)
+	- Marble Compact realizes its infrastructure is being annexed; “Order” no longer needs noble consent
+	- Soul Society posture hardens: treats stability as compliance/legibility, not prosperity
 - **Relationships / allegiances**:
+	- Solar-Lunar envoy ↔ Hellborne: aligned on breaking legitimacy rather than trading crowns
+	- Soul Society ↔ Marble Compact: partnership becomes absorption; nobles become disposable
 
 ## Scene 1
 
@@ -25,6 +37,16 @@ The envoy entered the council chamber with a tray of tea.
 No one looked at servants.
 
 That was the servant’s advantage.
+
+Inside the envoy’s sleeve was a thin strip of paper.
+
+One sentence.
+
+Written in three variants, each tuned to land on a different kind of pride.
+
+Not prophecy.
+
+Procedure.
 
 Lord Qiao argued.
 
@@ -66,6 +88,8 @@ Solar and Lunar did not win by striking.
 
 They won by turning a single sentence into a wedge.
 
+And wedges worked best when they were reproducible.
+
 ## Scene 2
 
 - **POV**: Lady Gao Yue
@@ -87,6 +111,10 @@ And now an outsider was using her infrastructure as a sheath for their blade.
 The liaison’s gaze stayed calm.
 
 “Productivity is not our concern,” he replied.
+
+“Registration is,” the liaison added, as if clarifying a recipe.
+
+“Legibility. Sorting. Compliance.”
 
 Gao Yue felt something like vertigo.
 
@@ -119,6 +147,16 @@ She looked at the petition stamp—center—on the table.
 An imitation.
 
 And imitations always belonged to the original.
+
+She thought, suddenly, of Hellborne stamps.
+
+Crude.
+
+Shared.
+
+Not asking permission.
+
+If legitimacy could be manufactured, then legitimacy could also be taken apart.
 
 ## Scene 3
 
@@ -156,6 +194,24 @@ or they admit they were never the rulers.
 
 Either way, their legitimacy dies.”
 
+The runner glanced back at the council doors.
+
+“Will they say it?”
+
+“Not out loud,” the envoy said.
+
+“But the sentence is already loose.
+
+It will be repeated.
+
+In taverns.
+
+In clinic lines.
+
+In count-songs.
+
+That’s how you turn a room into a street.”
+
 The runner exhaled.
 
 Legitimacy dying was not victory.
@@ -167,6 +223,6 @@ Because a system that cannot justify itself has to rely on violence.
 And violence was the one language the Hellborne knew how to exhaust.
 
 ## Notes
-- Wheels of Solar and Lunar: uses dialectic (question wedges) to fracture the Compact’s coalition.
+- Wheels of Solar and Lunar: uses dialectic (question wedges) to fracture the Compact’s coalition; the wedge is teachable and repeatable.
 - Nobles vs Soul Society: alliance collapses when control is visibly transferred.
 - Hellborne advantage: forces the enemy into open domination, losing the “benevolent order” mask.
