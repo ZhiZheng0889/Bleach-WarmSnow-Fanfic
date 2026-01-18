@@ -1,5 +1,8 @@
 # Chapter — Paper Walls (Death Stage 04)
 
+[Next →](01-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
