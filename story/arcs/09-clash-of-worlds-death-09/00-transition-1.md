@@ -1,5 +1,8 @@
 # Chapter — The Siege of Meaning (Death Stage 09)
 
+[Next →](01-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
