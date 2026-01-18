@@ -1,5 +1,8 @@
 # Chapter — The Hunt for a Rule (Death Stage 05)
 
+[Next →](01-transition-2.md)
+
+
 ## Characters
 
 - **Introduced / First appearance**:
