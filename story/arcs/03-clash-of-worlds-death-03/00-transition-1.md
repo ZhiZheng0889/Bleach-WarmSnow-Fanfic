@@ -6,9 +6,19 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Cart driver (unnamed)
+	- Tea house keeper (unnamed)
 - **Returning**:
+	- Ren
+	- Master Jian (Cloud-Splitting)
+	- The seam / corridor
 - **Changes (status / power / gear / role)**:
+	- The seam becomes measurable: touching “ordinary” anchors can trigger thinness and a bodily toll
+	- Ren learns danger expands: intention/proximity can be enough to stir the corridor
+	- Master Jian pivots from revolt to pursuit-as-protection: questions create witnesses instead of prey
 - **Relationships / allegiances**:
+	- Ren ↔ seam: a coercive relationship framed as payment
+	- Master Jian ↔ Ren: tries to track without turning Ren into property
 
 ## Scene 1
 
@@ -90,6 +100,14 @@ The man spat.
 
 “City’s eating itself,” he muttered.
 
+Then, quieter:
+
+“And the white uniforms are learning to eat with it.
+
+They don’t ask the nobles anymore.
+
+They ask the road.”
+
 Ren did not argue.
 
 He watched the cart roll past.
@@ -107,6 +125,14 @@ He did not like being asked questions.
 Questions were how people found the shape of a rumor.
 
 Rumors were how people found him.
+
+And once someone found him, paper would follow.
+
+Stamps.
+
+Categories.
+
+The kind of hunting that claimed it was only administration.
 
 After a while, he saw the milestone.
 
@@ -324,6 +350,10 @@ She shrugged.
 
 “Because he looked like someone who owed a debt to the world,” she said. “Because he looked like he’d walked out of a place that shouldn’t exist.”
 
+She glanced at Master Jian’s coin.
+
+“And because he bled into his sleeve like he didn’t want anyone to see,” she added.
+
 Master Jian’s throat tightened.
 
 He did not know the seamwalker’s name.
@@ -344,3 +374,4 @@ Appropriate.
 
 - Continuity: Establishes Death Stage 03 as travel + discovery, and introduces a tangible “toll” for touching the seam.
 - Foreshadowing: If the seam takes payment, factions will try to redirect that cost onto civilians.
+- Pressure: rumors become paperwork; the countryside becomes searchable.
