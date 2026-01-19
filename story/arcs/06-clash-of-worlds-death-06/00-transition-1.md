@@ -6,9 +6,20 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Cartographer (unnamed)
+	- Checkpoint patrol leader (unnamed)
+	- Master Jian’s companion (unnamed)
 - **Returning**:
+	- Ren
+	- Master Jian (Cloud-Splitting)
+	- The seam / corridor
 - **Changes (status / power / gear / role)**:
+	- Navigation becomes political: maps and permits compete with lived routes and mutual-aid lanes
+	- Paper walls normalize: curfews/checkpoints/permits start replacing the old court’s stage
+	- Master Jian shifts from breaking centers to designing practices that survive enforcement
 - **Relationships / allegiances**:
+	- Ren ↔ paper: uses maps as direction, rejects them as truth
+	- Master Jian ↔ the door question: refuses sword-solutions; seeks decentralization
 
 ## Scene 1
 
@@ -102,32 +113,6 @@ As direction.
 - **Location**: A ridge overlooking the city
 - **Goal**: Choose what to protect when every choice creates enemies
 
-Master Jian watched patrols move like ink strokes across the streets.
-
-He could disrupt them.
-
-He could also provoke a crackdown.
-
-He remembered the square.
-
-He remembered how quickly “stability” became permission for violence.
-
-He exhaled.
-
-“We need a third path,” he said.
-
-Someone behind him asked, “A third path to what?”
-
-Master Jian answered without looking back.
-
-“A third path to the future,” he said. “One that does not require a center.”
-
-## Scene 3
-
-- **POV**: Master Jian (Cloud-Splitting)
-- **Location**: A ridge overlooking the city
-- **Goal**: Choose what to protect when every choice creates enemies
-
 The ridge wind cut cold across Master Jian’s cheeks.
 
 Below, patrols moved like ink strokes across streets.
@@ -169,6 +154,18 @@ The companion shifted.
 Master Jian’s eyes narrowed.
 
 “The door is the problem we cannot solve with swords,” he said. “So we must solve it with practices that survive swords.”
+
+He watched a patrol stop a cart.
+
+Not with a blade.
+
+With a posted notice and a demand for the right paper.
+
+“That’s how it starts,” Master Jian said softly.
+
+“Stability, written down.
+
+Violence, filed.”
 
 ## Notes
 
