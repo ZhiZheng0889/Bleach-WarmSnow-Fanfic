@@ -6,9 +6,17 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- The corridor’s rhythm (first clear sign of non-human, deliberate agency)
 - **Returning**:
+	- Ren
+	- The seam / corridor
+	- Counting/ledger practices (as a mental anchor)
 - **Changes (status / power / gear / role)**:
+	- The corridor shifts from passive wound to adaptive actor: it anticipates, tests, and trains responses
+	- Ren’s coping method clarifies: anchors his mind in lists/food/clinic routines to reduce accidental triggering
+	- The seam’s toll evolves: ease becomes a trap (training), not generosity
 - **Relationships / allegiances**:
+	- Ren ↔ corridor: adversarial intimacy; the corridor learns his intentions and pushes toward “necessity”
 
 ## Scene 1
 
@@ -79,8 +87,6 @@ He thought of the door widening too easily.
 He realized with a sick clarity that ease was not generosity.
 
 Ease was training.
-
-## Scene 2
 
 ## Scene 2
 
@@ -178,7 +184,7 @@ Then people were not the only ones who wanted a center.
 
 ## Notes
 
-## Notes
-
 - Continuity: Introduces the corridor/seam as an active, evolving force.
 - Foreshadowing: Non-human agency inside “between” will become a main antagonist pressure.
+
+- Pressure: if Soul Society names “keys,” the corridor may learn to want keys.
