@@ -25,6 +25,7 @@ This folder collects **paraphrased** setting notes and a working glossary for ad
 - [Hellborne (appendix list)](hellborne-appendix.md)
 - [Hellborne Path Leaders (builds)](hellborne-path-leaders.md)
 - [Hellborne Relic Hooks](hellborne-relic-hooks.md)
+- [Hellborne Arsenal](hellborne-arsenal.md)
 - [Hellborne Path Hooks](hellborne-path-hooks.md)
 - [Hellborne vs Captains Matchups](hellborne-captain-matchups.md)
 - [Imperial Guard](imperial-guard.md)

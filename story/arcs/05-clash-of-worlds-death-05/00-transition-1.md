@@ -6,9 +6,19 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Soul Society investigator (unnamed)
+	- Ferryman (unnamed; scar down cheek)
 - **Returning**:
+	- Ren
+	- The seam / corridor
+	- Soul Society enforcement apparatus (proto–reaper cadres)
 - **Changes (status / power / gear / role)**:
+	- Soul Society pivots to doctrine: archives and precedent become weapons to standardize capture
+	- “Key” classification emerges implicitly: a human-interface to anomaly (and therefore a target)
+	- Ren’s anonymity becomes harder: rumor spreads faster than bodies; environments (water/thresholds) feel like potential triggers
 - **Relationships / allegiances**:
+	- Investigator ↔ institution: turns confession into policy by omission
+	- Ren ↔ seam: manages a coercive relationship with escalating triggers
 
 ## Scene 1
 
@@ -39,6 +49,14 @@ The investigator copied it.
 Not because it was true.
 
 Because it could become policy.
+
+Policy needed categories.
+
+Categories needed a word.
+
+He did not write the word yet.
+
+But he could already feel it forming: key.
 
 ## Scene 2
 
@@ -120,6 +138,8 @@ Not because it was false.
 
 Because it was inconvenient.
 
+Inconvenience was what institutions called ethics.
+
 ## Scene 3
 
 - **POV**: Ren
@@ -135,6 +155,10 @@ They said he was a saint.
 They said he was a weapon.
 
 They said he was an omen of war.
+
+They did not say he was a person.
+
+People were too hard to file.
 
 Ren stood in line and tried to look like nobody.
 
@@ -206,6 +230,12 @@ For a moment, Ren thought he had been recognized.
 
 But the ferryman’s gaze moved on.
 
+Recognition would come later.
+
+Not from eyes.
+
+From paper.
+
 Ren exhaled.
 
 He stepped onto the ferry.
@@ -219,8 +249,6 @@ The world, for a heartbeat, felt too open.
 Ren gripped the railing.
 
 If the seam decided rivers were doors, then he would never feel safe near water again.
-
-## Notes
 
 ## Notes
 

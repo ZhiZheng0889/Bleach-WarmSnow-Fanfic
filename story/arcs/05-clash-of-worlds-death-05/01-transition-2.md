@@ -6,9 +6,20 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Street preacher (civilian)
+	- Younger woman (unnamed)
+	- Older gray-haired woman (unnamed)
 - **Returning**:
+	- Ren
+	- Depot/council logistics network (lists, routes, distribution)
+	- The seam / corridor (as contested narrative)
 - **Changes (status / power / gear / role)**:
+	- The seam is socially weaponized: icons, tithes, and “worthiness” myths try to become a new gate
+	- Ren chooses counter-myth: a repeatable practice rooted in auditable lists and shared access
+	- Governance pressure concentrates: whoever controls access points (depots/checkpoints/doors) becomes the next target
 - **Relationships / allegiances**:
+	- Preacher ↔ crowd: converts fear into obedience and revenue
+	- Ren ↔ civilians: tries to re-route need away from icons and into accountable services
 
 ## Scene 1
 
@@ -53,6 +64,8 @@ Icons were cheaper than food.
 Icons could be carried.
 
 Icons could be sold.
+
+Icons could also be used to decide who was “worthy” of help.
 
 The preacher’s voice rose.
 
@@ -128,6 +141,8 @@ They would hear the denial and keep the legend.
 
 They would turn his refusal into proof of humility.
 
+And the preacher would turn it into doctrine.
+
 Ren looked at the lantern.
 
 At the people.
@@ -145,6 +160,12 @@ Not retreat.
 Strategy.
 
 He would break the myth by building something better than a myth: a practice.
+
+A practice could be copied.
+
+Audited.
+
+Refused.
 
 ## Scene 3
 
@@ -246,6 +267,10 @@ Lists could be shared.
 
 Lists could be refused.
 
+Lists could also be stolen.
+
+So they would need witnesses.
+
 “Good,” Ren said. “Take your grain from the depot. Tell them you’re feeding seven.”
 
 The younger woman blinked.
@@ -270,7 +295,6 @@ He paused.
 
 ## Notes
 
-## Notes
-
 - Continuity: Introduces social/religious capture of the seam narrative.
 - Foreshadowing: Ren’s “practice” approach becomes key to resisting institutional myth-making.
+- Pressure: the next fight is over gates—who runs them, who audits them, and who gets turned into one.
