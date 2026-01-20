@@ -6,9 +6,18 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Negotiator (unnamed)
 - **Returning**:
+	- Ren
+	- The seam / corridor
+	- Faction triad: “order,” “the people,” “survival”
 - **Changes (status / power / gear / role)**:
+	- Capture strategy shifts to law: treaties as paper doors (quotas, committees, emergency powers)
+	- Ren’s refusal becomes doctrine: a boundary against turning a person into a resource
+	- The corridor is framed as a stakeholder: war-conditions would train it further
 - **Relationships / allegiances**:
+	- Negotiator ↔ factions: sells neutrality while drafting ownership by another name
+	- Ren ↔ factions: rejects being administered; insists on consent over quotas
 
 ## Scene 1
 
@@ -102,12 +111,6 @@ One side would pretend the paper was neutral.
 
 Then they would use it like a blade.
 
-“We need terms,” the negotiator said.
-
-Someone replied, “We need control.”
-
-Someone else replied, “We need to make sure control looks fair.”
-
 The negotiator’s pen paused.
 
 He wrote anyway.
@@ -125,12 +128,6 @@ Ownership.
 Because saying ownership out loud would make the room honest.
 
 And honesty was the fastest way to end a meeting without ending a conflict.
-
-He thought of the seamwalker—whoever he was.
-
-He wondered if the seamwalker knew that treaties were just doors made of paper.
-
-And paper doors were easier to force than real ones.
 
 ## Scene 2
 
@@ -182,6 +179,8 @@ If someone could limit a thing, they could claim it.
 
 If someone could claim it, they could sell it.
 
+And if they could sell it, they could buy soldiers and call it peace.
+
 The door did not belong to anyone.
 
 That was the only reason it still felt like mercy.
@@ -229,6 +228,8 @@ The negotiator’s eyes narrowed.
 Ren’s voice stayed calm.
 
 “Refusal is the first plan,” he replied. “It tells you what you’re not allowed to do to people.”
+
+It also told institutions what they were not allowed to call “oversight.”
 
 For a moment, the negotiator looked genuinely tired.
 
