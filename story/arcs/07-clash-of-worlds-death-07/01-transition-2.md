@@ -6,9 +6,19 @@
 ## Characters
 
 - **Introduced / First appearance**:
+	- Saboteur (unnamed)
+	- Burned-cart children (group)
 - **Returning**:
+	- Ren
+	- Depot/route volunteers
+	- The seam / corridor (as impulse toward simple violence)
 - **Changes (status / power / gear / role)**:
+	- Sabotage becomes policy-by-rumor: one cart burned to sell the need for a center
+	- Ren chooses repair as strategy: turns attack into public proof of competence and shared method
+	- The corridor is resisted through practice: rebuilding interrupts the “open/take/threaten” reflex
 - **Relationships / allegiances**:
+	- Saboteur ↔ public: weaponizes narrative to manufacture consent for control
+	- Ren ↔ public: builds trust through labor, not myth
 
 ## Scene 1
 
@@ -235,8 +245,5 @@ He would offer competence.
 Competence was harder to undermine.
 
 ## Notes
-
-## Notes
-
 - Continuity: Escalates conflict into sabotage and narrative warfare.
 - Foreshadowing: Repair-as-resistance becomes a strategic motif.
