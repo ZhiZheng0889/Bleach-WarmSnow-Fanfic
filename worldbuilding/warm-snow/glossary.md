@@ -22,6 +22,7 @@ This is a **working** glossary: short, consistent meanings you can use in prose.
 - **Excalibur room**: A dedicated room type that awards a weapon pickup.
 - **Rarity (weapon)**: Rare/Epic/Legendary/Mythic; higher rarity usually means more stat lines and stronger unique effects.
 - **Divine weapon (神兵)**: A weapon whose special trait is conditional (often wired to specific relics/manuals/skills); for story, treat it like a blade’s “signature vow” that wakes when requirements are met.
+- **Hellborne Arsenal**: A curated set of Hellborne weapons, relic-engines, and technologies built to be scene-ready and doctrine-consistent (Floors, communal custody, audit marks, blueprint procedures).
 - **Sheath**: A core combat action in the game’s vocabulary; many effects trigger “upon sheathing.”
 - **Sheath cooldown**: A weapon stat line that reduces how long you wait between sheath uses.
 - **Rage gain**: A weapon stat line that increases how quickly you build rage.
